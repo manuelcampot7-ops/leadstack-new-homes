@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T21:03:01.870Z",
+  "updatedAt": "2026-09-17T21:33:23.864Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-17T21:03:01.870Z",
+  "publicUpdatedAt": "2026-09-17T21:33:23.864Z",
   "photoCount": 124,
   "communities": [
     {
@@ -3830,15 +3830,28 @@
           "price": 358070,
           "priceLabel": "$358,070",
           "beds": 5,
-          "homeSlug": "952",
-          "sourceUrl": "https://www.drhorton.com/global-shared-content/jde/qmis/952/95217/952-95217-952390000-0022",
+          "homeSlug": "5291-sw-41st-court",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5291-sw-41st-court",
           "baths": "3",
           "sqft": "2,605",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/hayden-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=7523848efecc472099f55082df216df6&hash=6F718DF061662A1B57C2F0588FCB7D6A",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/hayden-h-gen3-elev_ind.jpg?as=1&w=1280&rev=7523848efecc472099f55082df216df6&hash=A0E554040BE33B8B0F5C7586330AEE3B",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/hayden-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=7523848efecc472099f55082df216df6&hash=6F718DF061662A1B57C2F0588FCB7D6A"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/hayden-h-gen3-elev_ind.jpg?as=1&w=1280&rev=7523848efecc472099f55082df216df6&hash=A0E554040BE33B8B0F5C7586330AEE3B",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/1_hayden_living_room.png?as=1&w=1280&rev=97f065ab72ec49669bf8eb06cd8adb8b&hash=8DCE4DFED1BBF655441B3EF845EE9271",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/2_hayden_dining_room.png?as=1&w=1280&rev=c8a9841e59e842f89f607c8fc98162f7&hash=7BA7643336D80BA72B192A2EAC685A3D",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/3_hayden_kitchen.png?as=1&w=1280&rev=07ff33b39eb740c7bfede449792efe3d&hash=1BDC40D31DE12288F79BE1B8595AB04D",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/4_hayden_flex_room.png?as=1&w=1280&rev=d9b68bf6296a48ff89c38c13ab2aed8e&hash=1A7B54C16E6AD9288E171D431AC068E9",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/5_hayden_bedroom2.png?as=1&w=1280&rev=95418bf9317548dc8079f4e13654acc8&hash=46B997207AA6D6E5E15B36152B0CBFA0",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/6_hayden_bathroom2.png?as=1&w=1280&rev=2dfe468b90034fee909d9526e2edcfcd&hash=C93A936E0892CF6A954E6CAEB0B893E6",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/7_hayden_upstairs_loft.png?as=1&w=1280&rev=36ad56c927464dc0a2d72a3935be3659&hash=92845BAFA3F285C27FBD5C371A415603",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/8_hayden_owners_suite.png?as=1&w=1280&rev=d44d501107d24f46842c8f038564d6ec&hash=54415490F7DFDBA74ED032011E27984A",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/9_hayden_owners_ensuite_bathroom.png?as=1&w=1280&rev=5f3c802495d641e89c3ac8cf48050841&hash=7B9CE699F06C239BAC54471B886910A8",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/10_hayden_bedroom4.png?as=1&w=1280&rev=516018be59b24bdea07f36faaed3200a&hash=60110B6D28523A11234DCF6CAFA34310",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/11_hayden_bedroom5.png?as=1&w=1280&rev=2d057b22f05b4015923af45554d3602f&hash=CF425BA525B864AF070E16467C746503",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/12_hayden_bathroom3.png?as=1&w=1280&rev=45a272841b2f4dca8038660fb5444fe0&hash=604A60B854DE91C64D9016B9D2B4C028",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0140-5291-sw-41st-court/13_hayden_bedroom3.png?as=1&w=1280&rev=cdd7e398391b4b2e89f93ee85ac43b3a&hash=641BFF90C505450EADD45A11FC9098D4"
           ]
         },
         {
