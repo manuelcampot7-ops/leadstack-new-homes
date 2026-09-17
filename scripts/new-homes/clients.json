@@ -1,0 +1,44 @@
+{
+  "christina-martinez": {
+    "clientId": "christina-martinez",
+    "market": "ocala",
+    "builder": "drhorton",
+    "adapter": "public",
+    "output": "src/data/new-homes/inventory.json",
+    "communitySlugs": [
+      "mockingbird-reserve-at-winding-oaks",
+      "derby-creek",
+      "the-towns-at-laurel-commons",
+      "ocala-crossings-south",
+      "marion-oaks-spot-lots",
+      "tartan-farms-at-winding-oaks",
+      "mcginley-landing",
+      "ridge-at-heat-brook",
+      "emerson-pointe",
+      "ocala-preserve",
+      "autumn-glen",
+      "citrus-springs"
+    ]
+  },
+  "leadstack-template": {
+    "clientId": "leadstack-template",
+    "market": "ocala",
+    "builder": "drhorton",
+    "adapter": "public",
+    "output": "src/data/new-homes/inventory.json",
+    "communitySlugs": [
+      "mockingbird-reserve-at-winding-oaks",
+      "derby-creek",
+      "the-towns-at-laurel-commons",
+      "ocala-crossings-south",
+      "marion-oaks-spot-lots",
+      "tartan-farms-at-winding-oaks",
+      "mcginley-landing",
+      "ridge-at-heat-brook",
+      "emerson-pointe",
+      "ocala-preserve",
+      "autumn-glen",
+      "citrus-springs"
+    ]
+  }
+}
