@@ -37,6 +37,94 @@ const URL_FALLBACKS = {
 
 const ORIGIN = "https://www.drhorton.com";
 
+const CENTRAL_FL_COUNTIES = new Set([
+  "orange-county",
+  "osceola-county",
+  "seminole-county",
+  "lake-county",
+  "polk-county",
+  "volusia-county",
+  "sumter-county",
+  "tampa",
+  "hillsborough-county",
+  "pasco-county",
+  "pinellas-county",
+  "manatee-county",
+]);
+
+/** Horton files Plant City under /florida/tampa/ even though it's Central Florida. */
+const CENTRAL_FL_CITIES = new Set(["plant-city"]);
+
+/** Keep Ocala / Marion turf off the Central Florida crawl (that's Christina). */
+const EXCLUDE_CITIES = new Set(["ocala", "belleview", "citrus-springs"]);
+
+function communityPathFromHref(href) {
+  if (!href) return "";
+  const path = String(href).trim().split("#")[0].split("?")[0].replace(ORIGIN, "").trim();
+  if (!path.startsWith("/florida/")) return "";
+  if (/\/qmis\/|\/floor-plans\//i.test(path)) return "";
+  const parts = path.replace(/\/+$/, "").split("/").filter(Boolean);
+  // /florida/{county}/{city}/{community}
+  if (parts.length !== 4) return "";
+  return `/${parts.join("/")}`;
+}
+
+function slugFromCommunityPath(path) {
+  const parts = path.split("/").filter(Boolean);
+  return parts[3] || "";
+}
+
+function parseNearbyCommunityLinks(html, allowCounties) {
+  const hrefs = [...String(html).matchAll(/href="([^"]+)"/gi)].map((m) => m[1]);
+  const found = [];
+  const seen = new Set();
+  for (const href of hrefs) {
+    const path = communityPathFromHref(href);
+    if (!path || seen.has(path)) continue;
+    const parts = path.split("/").filter(Boolean);
+    const county = parts[1];
+    const city = parts[2];
+    if (EXCLUDE_CITIES.has(city)) continue;
+    if (allowCounties?.size && !allowCounties.has(county) && !CENTRAL_FL_CITIES.has(city)) continue;
+    seen.add(path);
+    found.push({ slug: slugFromCommunityPath(path), url: `${ORIGIN}${path}` });
+  }
+  return found;
+}
+
+export async function discoverCommunityPages(seeds, { counties = CENTRAL_FL_COUNTIES, maxPages = 120 } = {}) {
+  const allow = counties instanceof Set ? counties : new Set(counties || []);
+  const queue = [];
+  const seen = new Set();
+  const pages = [];
+  for (const seed of seeds || []) {
+    const path = communityPathFromHref(seed) || communityPathFromHref(new URL(seed, ORIGIN).pathname);
+    const url = path ? `${ORIGIN}${path}` : seed;
+    const slug = slugFromCommunityPath(path) || slugify(url);
+    if (seen.has(url)) continue;
+    seen.add(url);
+    queue.push({ slug, url });
+  }
+  while (queue.length && pages.length < maxPages) {
+    const page = queue.shift();
+    pages.push(page);
+    log("info", "discover: community", { slug: page.slug, url: page.url, queued: queue.length });
+    try {
+      const { text } = await fetchText(page.url, { tries: 3, timeoutMs: 25000 });
+      for (const next of parseNearbyCommunityLinks(text, allow)) {
+        if (seen.has(next.url)) continue;
+        seen.add(next.url);
+        queue.push(next);
+      }
+    } catch (err) {
+      if (err && err.code === "BLOCKED") throw err;
+      log("warn", "discover: seed skipped", { url: page.url, err: String(err.message || err) });
+    }
+    await sleep(800);
+  }
+  return pages;
+}
+
 function decode(html) {
   return String(html || "")
     .replace(/&amp;/g, "&")
@@ -241,8 +329,14 @@ async function enrichLot(lot) {
 }
 
 export async function fetchPublicSnapshot(client, { skipDetails = false } = {}) {
-  const allow = new Set(client.communitySlugs || []);
-  const pages = (client.communityUrls || DEFAULT_PAGES).filter((p) => allow.size === 0 || allow.has(p.slug));
+  let pages;
+  if (client.discoverSeeds?.length) {
+    const counties = new Set(client.discoverCounties || [...CENTRAL_FL_COUNTIES]);
+    pages = await discoverCommunityPages(client.discoverSeeds, { counties, maxPages: client.discoverMax || 120 });
+  } else {
+    const allow = new Set(client.communitySlugs || []);
+    pages = (client.communityUrls || DEFAULT_PAGES).filter((p) => allow.size === 0 || allow.has(p.slug));
+  }
   if (pages.length === 0) throw new Error("adapter B: no community URLs for this market");
 
   const communities = [];

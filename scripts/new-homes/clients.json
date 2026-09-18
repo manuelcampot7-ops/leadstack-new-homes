@@ -40,5 +40,64 @@
       "autumn-glen",
       "citrus-springs"
     ]
+  },
+  "orlando-pilot": {
+    "clientId": "orlando-pilot",
+    "market": "orlando",
+    "builder": "drhorton",
+    "adapter": "public",
+    "output": "src/data/new-homes/orlando.json",
+    "discoverSeeds": [
+      "https://www.drhorton.com/florida/orange-county/apopka/sagewood",
+      "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh",
+      "https://www.drhorton.com/florida/orange-county/orlando/nona-west",
+      "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred"
+    ],
+    "discoverCounties": ["orange-county", "osceola-county", "seminole-county", "lake-county"]
+  },
+  "central-florida": {
+    "clientId": "central-florida",
+    "market": "central-florida",
+    "builder": "drhorton",
+    "adapter": "public",
+    "output": "src/data/new-homes/central-florida.json",
+    "discoverMax": 120,
+    "discoverSeeds": [
+      "https://www.drhorton.com/florida/orange-county/apopka/sagewood",
+      "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh",
+      "https://www.drhorton.com/florida/orange-county/orlando/nona-west",
+      "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred",
+      "https://www.drhorton.com/florida/polk-county/davenport/citrus-ridge",
+      "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south",
+      "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch-townhomes",
+      "https://www.drhorton.com/florida/volusia-county/deltona/deltona-new-homes",
+      "https://www.drhorton.com/florida/west-central-florida/wildwood/triumph"
+    ],
+    "discoverCounties": [
+      "orange-county",
+      "osceola-county",
+      "seminole-county",
+      "lake-county",
+      "polk-county",
+      "volusia-county",
+      "sumter-county",
+      "west-central-florida"
+    ]
+  },
+  "tampa-pilot": {
+    "clientId": "tampa-pilot",
+    "market": "tampa",
+    "builder": "drhorton",
+    "adapter": "public",
+    "output": "src/data/new-homes/tampa.json",
+    "discoverMax": 80,
+    "discoverSeeds": [
+      "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea",
+      "https://www.drhorton.com/florida/tampa/wimauma/berry-bay",
+      "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood",
+      "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers",
+      "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve"
+    ],
+    "discoverCounties": ["tampa", "hillsborough-county", "pasco-county", "pinellas-county", "manatee-county"]
   }
 }
