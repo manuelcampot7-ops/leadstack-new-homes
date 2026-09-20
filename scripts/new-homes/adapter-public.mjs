@@ -310,6 +310,58 @@ function planFromCopy(html) {
   return match ? match[1].trim() : "";
 }
 
+const SPOT_LOT_CITIES = {
+  "marion-oaks-spot-lots": "Ocala, FL",
+  "citrus-springs": "Citrus Springs, FL",
+};
+
+function round7(n) {
+  return Math.round(Number(n) * 1e7) / 1e7;
+}
+
+async function censusGeocode(line) {
+  const params = new URLSearchParams({
+    address: line,
+    benchmark: "Public_AR_Current",
+    format: "json",
+  });
+  const url = `https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?${params}`;
+  const { text } = await fetchText(url, {
+    tries: 2,
+    timeoutMs: 15000,
+    headers: { Accept: "application/json" },
+  });
+  const data = JSON.parse(text);
+  const hit = data?.result?.addressMatches?.[0];
+  const lat = hit?.coordinates?.y;
+  const lng = hit?.coordinates?.x;
+  if (typeof lat !== "number" || typeof lng !== "number") return null;
+  if (lat < 27.4 || lat > 30.5 || lng < -83.2 || lng > -80.3) return null;
+  return { lat: round7(lat), lng: round7(lng) };
+}
+
+async function locateSpotLots(community) {
+  const city = SPOT_LOT_CITIES[community.slug];
+  if (!city) return community;
+  for (const lot of community.lots || []) {
+    if (typeof lot.lat === "number" && typeof lot.lng === "number") continue;
+    if (!lot.address) continue;
+    try {
+      const pin = await censusGeocode(`${lot.address}, ${city}`);
+      if (pin) {
+        lot.lat = pin.lat;
+        lot.lng = pin.lng;
+      }
+    } catch (err) {
+      log("warn", "adapter B: census geocode skipped", { address: lot.address, err: String(err.message || err) });
+    }
+    await sleep(350);
+  }
+  const located = (community.lots || []).filter((l) => typeof l.lat === "number");
+  log("info", "adapter B: spot lots located", { slug: community.slug, located: located.length, lots: (community.lots || []).length });
+  return community;
+}
+
 async function enrichLot(lot) {
   if (!lot.sourceUrl) return lot;
   try {
@@ -365,11 +417,15 @@ export async function fetchPublicSnapshot(client, { skipDetails = false } = {}) 
         lots,
         models,
       });
+      if (SPOT_LOT_CITIES[page.slug]) {
+        await locateSpotLots(communities[communities.length - 1]);
+      }
       log("info", "adapter B: community parsed", {
         slug: page.slug,
         lots: lots.length,
         models: models.length,
         photos: lots.filter((l) => l.photo).length,
+        located: (communities[communities.length - 1].lots || []).filter((l) => typeof l.lat === "number").length,
       });
     } catch (err) {
       if (err && err.code === "BLOCKED") throw err;
