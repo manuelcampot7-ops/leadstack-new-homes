@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-22T17:50:13.200Z",
+  "updatedAt": "2026-09-23T18:03:59.905Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-22T17:50:13.200Z",
-  "photoCount": 116,
+  "publicUpdatedAt": "2026-09-23T18:03:59.905Z",
+  "photoCount": 115,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -3001,7 +3001,7 @@
       "slug": "the-towns-at-laurel-commons",
       "name": "The Towns at Laurel Commons",
       "address": "8256 SW 67th Avenue, Ocala, FL 34476",
-      "availableCount": 7,
+      "availableCount": 6,
       "lowestPrice": 224990,
       "highestPrice": 247990,
       "beds": [
@@ -3044,24 +3044,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0d2537e312bd4269ae5be6a0bd2b9322&hash=F62CBF539426F0F2C9532E68F5F48A37",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0d2537e312bd4269ae5be6a0bd2b9322&hash=F62CBF539426F0F2C9532E68F5F48A37"
-          ]
-        },
-        {
-          "lot": "156",
-          "address": "6572 SW 82nd Loop",
-          "plan": "Pearson B",
-          "price": 236070,
-          "priceLabel": "$236,070",
-          "beds": 3,
-          "homeSlug": "6572-sw-82nd-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6572-sw-82nd-loop",
-          "baths": "2.5",
-          "sqft": "1,458",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0156-6572-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=016b855952064b8d961ea65ae6ba8b5d&hash=7F3EE83A5FF2A3D570C213A87E5D7FE0",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0156-6572-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=016b855952064b8d961ea65ae6ba8b5d&hash=7F3EE83A5FF2A3D570C213A87E5D7FE0"
           ]
         },
         {

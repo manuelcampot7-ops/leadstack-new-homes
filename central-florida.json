@@ -1,22 +1,21 @@
 {
-  "updatedAt": "2026-09-22T17:56:36.208Z",
+  "updatedAt": "2026-09-23T18:10:04.973Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-22T17:56:36.208Z",
-  "photoCount": 435,
+  "publicUpdatedAt": "2026-09-23T18:10:04.973Z",
+  "photoCount": 434,
   "communities": [
     {
       "slug": "annabelle-estates",
       "name": "Annabelle Estates",
       "address": "4206 Lester Drive, Lake Wales, FL 33859",
-      "availableCount": 9,
+      "availableCount": 8,
       "lowestPrice": 224990,
-      "highestPrice": 329900,
+      "highestPrice": 320990,
       "beds": [
         3,
-        4,
-        5
+        4
       ],
       "lots": [
         {
@@ -91,24 +90,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4ebb/0016-4262-lester-drive/cali_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ee6cb6a47bd048d2810aa5b78e9e89d4&hash=6F8E1A49ABAB43CB5B4D459A05F9ACC1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4ebb/0016-4262-lester-drive/cali_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ee6cb6a47bd048d2810aa5b78e9e89d4&hash=6F8E1A49ABAB43CB5B4D459A05F9ACC1"
-          ]
-        },
-        {
-          "lot": "39",
-          "address": "4415 Blackwell Avenue",
-          "plan": "",
-          "price": 329900,
-          "priceLabel": "$329,900",
-          "beds": 5,
-          "homeSlug": "4415-blackwell-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4415-blackwell-avenue",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0039-4415-blackwell-avenue/lakeside_g.jpg?iar=1&sc=1&thn=1&w=425&rev=4c625d31992f46a9874db3d5b7d52928&hash=58A139E9DE727871D2C4BB121B848CCF",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0039-4415-blackwell-avenue/lakeside_g.jpg?iar=1&sc=1&thn=1&w=425&rev=4c625d31992f46a9874db3d5b7d52928&hash=58A139E9DE727871D2C4BB121B848CCF"
           ]
         },
         {
@@ -200,13 +181,25 @@
         {
           "slug": "4eab",
           "name": "Aria",
+          "startingLabel": "Starting in the $301s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/floor-plans/4eab",
+          "beds": 3,
+          "baths": "2",
+          "sqft": "1,672",
+          "story": "1",
+          "garage": "2",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4eab/aria_g_cropped.jpg?as=1&w=425&rev=0828bb8229844aba9e0618864a7bf3ae&hash=6FEBBD9359BE35D4F658A643AC562B9B"
         },
         {
           "slug": "4ebb",
           "name": "Cali",
+          "startingLabel": "Starting in the $311s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/floor-plans/4ebb",
+          "beds": 4,
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4ebb/cali_g_cropped.jpg?as=1&w=425&rev=da90b1bb2ef24198bf2011968d15e673&hash=286DEA25B0E14FF1A9A1481568F3CF2A"
         },
         {
@@ -1105,31 +1098,13 @@
       "slug": "bradbury-creek",
       "name": "Bradbury Creek",
       "address": "1100 Belfast Place, Haines City, FL 33844",
-      "availableCount": 2,
-      "lowestPrice": 298900,
+      "availableCount": 1,
+      "lowestPrice": 300900,
       "highestPrice": 300900,
       "beds": [
         4
       ],
       "lots": [
-        {
-          "lot": "17",
-          "address": "1333 Derry Avenue",
-          "plan": "",
-          "price": 298900,
-          "priceLabel": "$298,900",
-          "beds": 4,
-          "homeSlug": "1333-derry-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/bradbury-creek/qmis/1333-derry-avenue",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38960-bradbury-creek/389600000-bradbury-creek-40s/3emb/0125-1333-derry-avenue/_0004_harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=c201e9fbd5964013b72a440ab1c6f119&hash=127D2394F76049768D05A748456AB530",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38960-bradbury-creek/389600000-bradbury-creek-40s/3emb/0125-1333-derry-avenue/_0004_harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=c201e9fbd5964013b72a440ab1c6f119&hash=127D2394F76049768D05A748456AB530"
-          ]
-        },
         {
           "lot": "18",
           "address": "1337 Derry Avenue",
@@ -3159,7 +3134,7 @@
       "address": "3614 Roden Road, Haines City, FL 33844",
       "availableCount": 9,
       "lowestPrice": 304990,
-      "highestPrice": 374190,
+      "highestPrice": 377190,
       "beds": [
         3,
         4,
@@ -3170,8 +3145,8 @@
           "lot": "323",
           "address": "3565 Roden Road",
           "plan": "",
-          "price": 367990,
-          "priceLabel": "$367,990",
+          "price": 370990,
+          "priceLabel": "$370,990",
           "beds": 4,
           "homeSlug": "3565-roden-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/3565-roden-road",
@@ -3190,8 +3165,8 @@
           "lot": "302",
           "address": "3534 Roden Road",
           "plan": "",
-          "price": 374190,
-          "priceLabel": "$374,190",
+          "price": 377190,
+          "priceLabel": "$377,190",
           "beds": 4,
           "homeSlug": "3534-roden-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/3534-roden-road",
@@ -3226,8 +3201,8 @@
           "lot": "250",
           "address": "4973 Katrina Drive",
           "plan": "",
-          "price": 327990,
-          "priceLabel": "$327,990",
+          "price": 330990,
+          "priceLabel": "$330,990",
           "beds": 3,
           "homeSlug": "4973-katrina-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/4973-katrina-drive",
@@ -3397,7 +3372,7 @@
         {
           "slug": "2725",
           "name": "McGraw",
-          "startingLabel": "Starting in the $399s",
+          "startingLabel": "Starting in the $402s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/floor-plans/2725",
           "beds": 4,
           "baths": "3.5",
@@ -3409,7 +3384,7 @@
         {
           "slug": "e409",
           "name": "Riviera",
-          "startingLabel": "Starting in the $360s",
+          "startingLabel": "Starting in the $363s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/floor-plans/e409",
           "beds": 4,
           "baths": "3",
@@ -4146,7 +4121,7 @@
       "name": "Farm at Varrea",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
       "availableCount": 21,
-      "lowestPrice": 328000,
+      "lowestPrice": 325000,
       "highestPrice": 500000,
       "beds": [
         3,
@@ -4158,8 +4133,8 @@
           "lot": "71",
           "address": "3512 Harvest Gardens Lp",
           "plan": "",
-          "price": 367480,
-          "priceLabel": "$367,480",
+          "price": 365000,
+          "priceLabel": "$365,000",
           "beds": 5,
           "homeSlug": "3512-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3512-harvest-gardens-loop",
@@ -4170,7 +4145,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0146-3512-harvest-gardens-loop/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=b9b25810df1044c99975d0e1d0c80259&hash=46977B02E5CB63470A7484EBD045B58D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0146-3512-harvest-gardens-loop/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=b9b25810df1044c99975d0e1d0c80259&hash=46977B02E5CB63470A7484EBD045B58D"
-          ]
+          ],
+          "incentive": 2480,
+          "incentiveLabel": "(2,480)"
         },
         {
           "lot": "353",
@@ -4194,8 +4171,8 @@
           "lot": "66",
           "address": "3524 Harvest Gardens Loop",
           "plan": "",
-          "price": 345000,
-          "priceLabel": "$345,000",
+          "price": 325000,
+          "priceLabel": "$325,000",
           "beds": 3,
           "homeSlug": "3524-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3524-harvest-gardens-loop",
@@ -4230,8 +4207,8 @@
           "lot": "23",
           "address": "3503 Harvest Gardens Lp",
           "plan": "",
-          "price": 371000,
-          "priceLabel": "$371,000",
+          "price": 350000,
+          "priceLabel": "$350,000",
           "beds": 4,
           "homeSlug": "3503-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3503-harvest-gardens-loop",
@@ -4248,8 +4225,8 @@
           "lot": "27",
           "address": "3511 Harvest Gardens Lp",
           "plan": "",
-          "price": 391000,
-          "priceLabel": "$391,000",
+          "price": 390000,
+          "priceLabel": "$390,000",
           "beds": 4,
           "homeSlug": "3511-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3511-harvest-gardens-loop",
@@ -4266,8 +4243,8 @@
           "lot": "192",
           "address": "4325 Hidden Farm Drive",
           "plan": "",
-          "price": 391000,
-          "priceLabel": "$391,000",
+          "price": 390000,
+          "priceLabel": "$390,000",
           "beds": 4,
           "homeSlug": "4325-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4325-hidden-farm-drive",
@@ -5539,9 +5516,9 @@
       "slug": "fox-branch",
       "name": "Fox Branch",
       "address": "8522 Cape Fox Cove, Lakeland, FL 33810",
-      "availableCount": 11,
+      "availableCount": 10,
       "lowestPrice": 303900,
-      "highestPrice": 395900,
+      "highestPrice": 356490,
       "beds": [
         3,
         4,
@@ -5654,24 +5631,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/e402/0044-7851-forrest-fox-way/lakeside_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f6058a9b02474524ad5e49b7ca6d0bf4&hash=7264F307368CCE562F862BF3B0976692",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/e402/0044-7851-forrest-fox-way/lakeside_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f6058a9b02474524ad5e49b7ca6d0bf4&hash=7264F307368CCE562F862BF3B0976692"
-          ]
-        },
-        {
-          "lot": "48",
-          "address": "7858 Forrest Fox Way",
-          "plan": "",
-          "price": 395900,
-          "priceLabel": "$395,900",
-          "beds": 5,
-          "homeSlug": "7858-forrest-fox-way",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7858-forrest-fox-way",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4ehb/0021-7858-forrest-fox-way/cropped_0006_hayden_exterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=cc63aba9a3cc4a7eb8dc62937078a119&hash=A236742B634B63F75467D5D1419424D1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4ehb/0021-7858-forrest-fox-way/cropped_0006_hayden_exterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=cc63aba9a3cc4a7eb8dc62937078a119&hash=A236742B634B63F75467D5D1419424D1"
           ]
         },
         {
@@ -7510,18 +7469,6 @@
           "story": "1",
           "garage": "3",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362020000-hawthorne-ph3-60s/2795/_0000_camden_ele_b_cs_3.jpg?as=1&w=425&rev=c2688dab39bd4307a63307b00e400b58&hash=2137FB326A6E9F5F530216EF58B2C14F"
-        },
-        {
-          "slug": "2767",
-          "name": "Coral",
-          "startingLabel": "Starting in the $434s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/2767",
-          "beds": 4,
-          "baths": "3",
-          "sqft": "2,756",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/coral_ele_g_with_stone_cropped.jpg?as=1&w=425&rev=1e199426764f446fa2c612b36ea89603&hash=84BA8B6C7EEE2D4851FC0876783E4B48"
         },
         {
           "slug": "e502",
@@ -12439,30 +12386,6 @@
       ],
       "models": [
         {
-          "slug": "4evb",
-          "name": "Dakota",
-          "startingLabel": "Starting in the $266s",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/triumph/floor-plans/4evb",
-          "beds": 3,
-          "baths": "2",
-          "sqft": "1,408",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34748-triumph-south/974860000-triumph-south-ph-2/4evb/dakota_b_-_lake_diamond_no_address.png?as=1&w=425&rev=ee66826138ea4cf394d959e2434864c3&hash=3EA16919AE869B26EAED6FC5FFE0A4C7"
-        },
-        {
-          "slug": "e407",
-          "name": "Freeport II",
-          "startingLabel": "Starting in the $275s",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/triumph/floor-plans/e407",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,498",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34748-triumph-south/974860000-triumph-south-ph-2/e407/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=beb7e3c261d143fdb01d24eaad76ca16&hash=E653AE935AB4AFEC319F07FB252071BB"
-        },
-        {
           "slug": "4eab",
           "name": "Aria",
           "startingLabel": "Starting in the $285s",
@@ -12582,7 +12505,11 @@
           "baths": "2.5",
           "sqft": "1,464",
           "story": "2",
-          "garage": "1"
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0098-8329-gower-trail/pearson-6_unit-th-stucco-sch1-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=21d0f3ceb02f443994ca8310fa693e5b&hash=992FA797EB000429BE37B1CC0E578919",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0098-8329-gower-trail/pearson-6_unit-th-stucco-sch1-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=21d0f3ceb02f443994ca8310fa693e5b&hash=992FA797EB000429BE37B1CC0E578919"
+          ]
         },
         {
           "lot": "175",
@@ -12999,18 +12926,6 @@
           "name": "Coral",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/floor-plans/2767",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/975210000-twisted-oaks---50s-drh/2767/fl_west-florida_drhorton_coral-g_brooker_ridge.jpg?as=1&w=425&rev=dd808913afd54936862a675b8473f975&hash=DD2421677D4BEE177BD42A431C92E1B9"
-        },
-        {
-          "slug": "e301",
-          "name": "Darwin",
-          "startingLabel": "Starting in the $290s",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/floor-plans/e301",
-          "beds": 3,
-          "baths": "2.5",
-          "sqft": "1,961",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974480000-twisted-oaks---sumter-40s-exp/e301/fl_tampanorth_darwin.jpg?as=1&w=425&rev=821aa9a3f32d431b8086ad1571add454&hash=0A79167B4687D7AB76137F2826EDBEDF"
         },
         {
           "slug": "a4db",
@@ -14193,8 +14108,8 @@
       "name": "Wynnstone",
       "address": "5787 Mountain Road, Davenport, FL 33837",
       "availableCount": 5,
-      "lowestPrice": 336990,
-      "highestPrice": 439490,
+      "lowestPrice": 339990,
+      "highestPrice": 442490,
       "beds": [
         3,
         5
@@ -14204,8 +14119,8 @@
           "lot": "75",
           "address": "5184 Native Mile Loop",
           "plan": "",
-          "price": 342990,
-          "priceLabel": "$342,990",
+          "price": 345990,
+          "priceLabel": "$345,990",
           "beds": 3,
           "homeSlug": "5184-native-mile-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/5184-native-mile-loop",
@@ -14224,8 +14139,8 @@
           "lot": "42",
           "address": "4751 Rolling Lake Lane",
           "plan": "",
-          "price": 414490,
-          "priceLabel": "$414,490",
+          "price": 417490,
+          "priceLabel": "$417,490",
           "beds": 5,
           "homeSlug": "4751-rolling-lake-lane",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/4751-rolling-lake-lane",
@@ -14242,8 +14157,8 @@
           "lot": "32",
           "address": "4791 Rolling Lake Lane",
           "plan": "",
-          "price": 439490,
-          "priceLabel": "$439,490",
+          "price": 442490,
+          "priceLabel": "$442,490",
           "beds": 5,
           "homeSlug": "4791-rolling-lake-lane",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/4791-rolling-lake-lane",
@@ -14260,8 +14175,8 @@
           "lot": "5",
           "address": "4808 Rolling Lake Lane",
           "plan": "",
-          "price": 336990,
-          "priceLabel": "$336,990",
+          "price": 339990,
+          "priceLabel": "$339,990",
           "beds": 3,
           "homeSlug": "4808-rolling-lake-lane",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/4808-rolling-lake-lane",
@@ -14278,8 +14193,8 @@
           "lot": "9",
           "address": "5149 Native Mile Loop",
           "plan": "",
-          "price": 405990,
-          "priceLabel": "$405,990",
+          "price": 408990,
+          "priceLabel": "$408,990",
           "beds": 5,
           "homeSlug": "5149-native-mile-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/5149-native-mile-loop",
@@ -14297,7 +14212,7 @@
         {
           "slug": "3eab",
           "name": "Allex",
-          "startingLabel": "Starting in the $327s",
+          "startingLabel": "Starting in the $330s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/3eab",
           "beds": 3,
           "baths": "2",
@@ -14309,7 +14224,7 @@
         {
           "slug": "4eab",
           "name": "Aria",
-          "startingLabel": "Starting in the $359s",
+          "startingLabel": "Starting in the $362s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/4eab",
           "beds": 3,
           "baths": "2",
@@ -14321,7 +14236,7 @@
         {
           "slug": "4ebb",
           "name": "Cali",
-          "startingLabel": "Starting in the $369s",
+          "startingLabel": "Starting in the $372s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/4ebb",
           "beds": 4,
           "baths": "2",
@@ -14333,7 +14248,7 @@
         {
           "slug": "e315",
           "name": "Crestview",
-          "startingLabel": "Starting in the $360s",
+          "startingLabel": "Starting in the $363s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/e315",
           "beds": 4,
           "baths": "2.5",
@@ -14345,7 +14260,7 @@
         {
           "slug": "e316",
           "name": "Crosscourt",
-          "startingLabel": "Starting in the $422s",
+          "startingLabel": "Starting in the $425s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/e316",
           "beds": 5,
           "baths": "3",
@@ -14357,7 +14272,7 @@
         {
           "slug": "e303",
           "name": "Elston II",
-          "startingLabel": "Starting in the $385s",
+          "startingLabel": "Starting in the $388s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/e303",
           "beds": 4,
           "baths": "2.5",
@@ -14369,7 +14284,7 @@
         {
           "slug": "3emb",
           "name": "Harper",
-          "startingLabel": "Starting in the $337s",
+          "startingLabel": "Starting in the $340s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/3emb",
           "beds": 4,
           "baths": "2",
@@ -14381,7 +14296,7 @@
         {
           "slug": "e402",
           "name": "Lakeside",
-          "startingLabel": "Starting in the $397s",
+          "startingLabel": "Starting in the $400s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/e402",
           "beds": 5,
           "baths": "3",
@@ -14393,7 +14308,7 @@
         {
           "slug": "3efb",
           "name": "Robie",
-          "startingLabel": "Starting in the $397s",
+          "startingLabel": "Starting in the $400s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/floor-plans/3efb",
           "beds": 5,
           "baths": "3",
@@ -14408,11 +14323,12 @@
       "slug": "wynwood",
       "name": "Wynwood",
       "address": "2180 Greenwood Oak Drive, Ocoee, FL 34761",
-      "availableCount": 3,
+      "availableCount": 4,
       "lowestPrice": 412000,
-      "highestPrice": 510000,
+      "highestPrice": 604990,
       "beds": [
         3,
+        4,
         5
       ],
       "lots": [
@@ -14468,6 +14384,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3efb/0049-3309-spineywood-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=952e4675d79243548fb2936a16b720d3&hash=1793496018DCAF4533391137B2694EFD",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3efb/0049-3309-spineywood-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=952e4675d79243548fb2936a16b720d3&hash=1793496018DCAF4533391137B2694EFD"
+          ]
+        },
+        {
+          "lot": "343",
+          "address": "2091 Ashwood Bluff Drive",
+          "plan": "",
+          "price": 604990,
+          "priceLabel": "$604,990",
+          "beds": 4,
+          "homeSlug": "2091-ashwood-bluff-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/2091-ashwood-bluff-drive",
+          "baths": "3",
+          "sqft": "2,361",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384270000-wynwood-60s/2383/0043-2091-ashwood-bluff-drive/1_1_destin_elevationl.jpg?iar=1&sc=1&thn=1&w=425&rev=19328bbc08fe4179b372eba327acef36&hash=C7438C35D1C333B03F001FC2372A714C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384270000-wynwood-60s/2383/0043-2091-ashwood-bluff-drive/1_1_destin_elevationl.jpg?iar=1&sc=1&thn=1&w=425&rev=19328bbc08fe4179b372eba327acef36&hash=C7438C35D1C333B03F001FC2372A714C"
           ]
         }
       ],
