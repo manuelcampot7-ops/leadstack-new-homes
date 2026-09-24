@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-23T18:12:17.892Z",
+  "updatedAt": "2026-09-24T18:12:18.376Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-23T18:12:17.892Z",
-  "photoCount": 173,
+  "publicUpdatedAt": "2026-09-24T18:12:18.376Z",
+  "photoCount": 174,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -1273,10 +1273,11 @@
       "slug": "brighton-park",
       "name": "Brighton Park",
       "address": "13141 Teton Ridge Ave, Hudson, FL 34669",
-      "availableCount": 3,
-      "lowestPrice": 298000,
+      "availableCount": 4,
+      "lowestPrice": 288990,
       "highestPrice": 305000,
       "beds": [
+        3,
         4,
         5
       ],
@@ -1335,6 +1336,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0006-12059-isle-royale-drive/cameron_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=80d733a5d92a4cc490892605ce7cf91f&hash=CAD60B46606F1F257357BC3B129F9FE1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0006-12059-isle-royale-drive/cameron_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=80d733a5d92a4cc490892605ce7cf91f&hash=CAD60B46606F1F257357BC3B129F9FE1"
+          ]
+        },
+        {
+          "lot": "13",
+          "address": "12115 Isle Royale Dr",
+          "plan": "",
+          "price": 288990,
+          "priceLabel": "$288,990",
+          "beds": 3,
+          "homeSlug": "12115-isle-royale-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/qmis/12115-isle-royale-drive",
+          "baths": "2",
+          "sqft": "1,223",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0013-12115-isle-royale-drive/greenbriar_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=ed64e5cd09714fe1b4faf8448be19eb7&hash=44205E31182743AE61FBE755E5EC8926",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0013-12115-isle-royale-drive/greenbriar_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=ed64e5cd09714fe1b4faf8448be19eb7&hash=44205E31182743AE61FBE755E5EC8926"
           ]
         }
       ],

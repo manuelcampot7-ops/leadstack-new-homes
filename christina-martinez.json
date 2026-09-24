@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-23T18:03:59.905Z",
+  "updatedAt": "2026-09-24T18:03:24.470Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-23T18:03:59.905Z",
+  "publicUpdatedAt": "2026-09-24T18:03:24.470Z",
   "photoCount": 115,
   "communities": [
     {
       "slug": "autumn-glen",
       "name": "Autumn Glen",
       "address": "11466 SE 72nd Avenue, Belleview, FL 34420",
-      "availableCount": 7,
+      "availableCount": 5,
       "lowestPrice": 272990,
-      "highestPrice": 347570,
+      "highestPrice": 339570,
       "beds": [
         3,
         4,
@@ -94,24 +94,6 @@
           ]
         },
         {
-          "lot": "58",
-          "address": "7195 SE 112th Lane",
-          "plan": "",
-          "price": 289990,
-          "priceLabel": "$289,990",
-          "beds": 4,
-          "homeSlug": "7195-se-112th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7195-se-112th-lane",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0222-7195-se-112th-lane/cali-c-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2cf4408c0f4b4819bd6273af2b6a1c52&hash=2CB0FC087824E6AA7B3D1418107E86A6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0222-7195-se-112th-lane/cali-c-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2cf4408c0f4b4819bd6273af2b6a1c52&hash=2CB0FC087824E6AA7B3D1418107E86A6"
-          ]
-        },
-        {
           "lot": "81",
           "address": "7146 SE 112th Lane",
           "plan": "Hayden",
@@ -127,24 +109,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0245-7146-se-112th-lane/hayden-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ac7e6358b779452188dc3ca752f81916&hash=0140BA531E248A3A707BA4AA7100391F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0245-7146-se-112th-lane/hayden-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ac7e6358b779452188dc3ca752f81916&hash=0140BA531E248A3A707BA4AA7100391F"
-          ]
-        },
-        {
-          "lot": "62",
-          "address": "7155 SE 112th Lane",
-          "plan": "Hayden",
-          "price": 347570,
-          "priceLabel": "$347,570",
-          "beds": 5,
-          "homeSlug": "7155-se-112th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7155-se-112th-lane",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0226-7155-se-112th-lane/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=8d50b97d13ff4ae8a076268f480b0515&hash=F386D3EB6B19E712603A6A6DD31CCC28",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0226-7155-se-112th-lane/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=8d50b97d13ff4ae8a076268f480b0515&hash=F386D3EB6B19E712603A6A6DD31CCC28"
           ]
         }
       ],
@@ -889,7 +853,7 @@
       "slug": "marion-oaks-spot-lots",
       "name": "Marion County Spot Lots",
       "address": "272 Marion Oaks Course, Ocala, FL 34473",
-      "availableCount": 8,
+      "availableCount": 10,
       "lowestPrice": 319990,
       "highestPrice": 344070,
       "beds": [
@@ -932,6 +896,42 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974780000-marion-spot-lots---wells/4ebb/0005-13042-sw-88th-ct/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f3df2f4c1b9a47dc87ebe21e72ab8d37&hash=B800337E16D4B473FED1004CFEFCCB04",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974780000-marion-spot-lots---wells/4ebb/0005-13042-sw-88th-ct/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f3df2f4c1b9a47dc87ebe21e72ab8d37&hash=B800337E16D4B473FED1004CFEFCCB04"
+          ]
+        },
+        {
+          "lot": "47",
+          "address": "13814 SW 42nd Court Rd",
+          "plan": "",
+          "price": 336070,
+          "priceLabel": "$336,070",
+          "beds": 4,
+          "homeSlug": "13814-sw-42nd-court-rd",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/13814-sw-42nd-court-rd",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0362-13814-sw-42nd-court-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d23e89d06a1e4152bbdb5e2406379800&hash=B6A691BC325D789821ED568EEB29D07E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0362-13814-sw-42nd-court-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d23e89d06a1e4152bbdb5e2406379800&hash=B6A691BC325D789821ED568EEB29D07E"
+          ]
+        },
+        {
+          "lot": "30",
+          "address": "2982 SW 165th Street Rd",
+          "plan": "",
+          "price": 344070,
+          "priceLabel": "$344,070",
+          "beds": 4,
+          "homeSlug": "2982-sw-165th-street-rd",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/2982-sw-165th-street-rd",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bbecd7796bdc4e1d91cb1d645d7a64b6&hash=A629C0334C8AF4128F9682C578692B16",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bbecd7796bdc4e1d91cb1d645d7a64b6&hash=A629C0334C8AF4128F9682C578692B16"
           ]
         },
         {
@@ -1280,7 +1280,7 @@
           "plan": "Bowen",
           "price": 248990,
           "priceLabel": "$248,990",
-          "beds": 2,
+          "beds": 3,
           "homeSlug": "4603-sw-71st-lane-road",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/4603-sw-71st-lane-road",
           "baths": "2",
@@ -2459,18 +2459,6 @@
           "story": "1",
           "garage": "2",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ebb/cali_d_siding.png?as=1&w=425&rev=9480148fb3354d6b9ce20c19390ea3f8&hash=A4B913752B394E260B066509A3CB7BD4"
-        },
-        {
-          "slug": "2045",
-          "name": "Lantana",
-          "startingLabel": "Starting in the $347s",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/floor-plans/2045",
-          "beds": 4,
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/2045/lantana_elev_f_2045_sq_ft_waterset_web.jpg?as=1&w=425&rev=f0528ae114da449395ae99aef260c8fa&hash=8AF0C54696CF4CF14229DDE5DFA067F3"
         },
         {
           "slug": "4ehb",
