@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T16:47:42.617Z",
+  "updatedAt": "2026-09-25T18:08:57.597Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-25T16:47:42.617Z",
+  "publicUpdatedAt": "2026-09-25T18:08:57.597Z",
   "photoCount": 114,
   "communities": [
     {
@@ -123,7 +123,10 @@
           "sqft": "1,672",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4eab/aria_d_ocs_8563_sw_46th_terrace.png?as=1&w=425&rev=7af00c1644b04b60b46d8d000aabb54d&hash=C5695CB3141FB9878194BC7F34788CE8"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4eab/aria_d_ocs_8563_sw_46th_terrace.png?as=1&w=425&rev=7af00c1644b04b60b46d8d000aabb54d&hash=C5695CB3141FB9878194BC7F34788CE8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4eab/aria_d_ocs_8563_sw_46th_terrace.png?as=1&w=425&rev=7af00c1644b04b60b46d8d000aabb54d&hash=C5695CB3141FB9878194BC7F34788CE8"
+          ]
         },
         {
           "slug": "4ebb",
@@ -135,7 +138,10 @@
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/cali_c_siding_-_ocs_8572_sw_46th_terrace.png?as=1&w=425&rev=e90c476cc8994141b5f7b2aa9475627c&hash=E544D8C2B042FC5240C71F2FEF4662A0"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/cali_c_siding_-_ocs_8572_sw_46th_terrace.png?as=1&w=425&rev=e90c476cc8994141b5f7b2aa9475627c&hash=E544D8C2B042FC5240C71F2FEF4662A0",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/cali_c_siding_-_ocs_8572_sw_46th_terrace.png?as=1&w=425&rev=e90c476cc8994141b5f7b2aa9475627c&hash=E544D8C2B042FC5240C71F2FEF4662A0"
+          ]
         },
         {
           "slug": "4ehb",
@@ -147,7 +153,10 @@
           "sqft": "2,605",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=92070ef83af64080a5cabef5f353e052&hash=09448D5E68DFD6EFB5AF2D7BA33397E7"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=92070ef83af64080a5cabef5f353e052&hash=09448D5E68DFD6EFB5AF2D7BA33397E7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=92070ef83af64080a5cabef5f353e052&hash=09448D5E68DFD6EFB5AF2D7BA33397E7"
+          ]
         }
       ]
     },
@@ -301,7 +310,10 @@
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/cali_d.png?as=1&w=425&rev=e26a82d5bff44ef197e69cf0a6745045&hash=E774DE181A8A355C3269873AD53AC9C5"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/cali_d.png?as=1&w=425&rev=e26a82d5bff44ef197e69cf0a6745045&hash=E774DE181A8A355C3269873AD53AC9C5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/cali_d.png?as=1&w=425&rev=e26a82d5bff44ef197e69cf0a6745045&hash=E774DE181A8A355C3269873AD53AC9C5"
+          ]
         },
         {
           "slug": "4evb",
@@ -313,7 +325,10 @@
           "sqft": "1,408",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4evb/dakota_hsl_no_address.png?as=1&w=425&rev=9d09b3bf0ce34c6cabe40263ad9b54d9&hash=E6FFB9170B49100046DC80B7BA3A4CFB"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4evb/dakota_hsl_no_address.png?as=1&w=425&rev=9d09b3bf0ce34c6cabe40263ad9b54d9&hash=E6FFB9170B49100046DC80B7BA3A4CFB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4evb/dakota_hsl_no_address.png?as=1&w=425&rev=9d09b3bf0ce34c6cabe40263ad9b54d9&hash=E6FFB9170B49100046DC80B7BA3A4CFB"
+          ]
         }
       ]
     },
@@ -396,7 +411,10 @@
           "sqft": "1,739",
           "story": "1",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e313/derby_creek_alford_b_7713_sw_46th_court.jpg?as=1&w=425&rev=110d9aa8e74f451bbf8db3841899a228&hash=B8F194DD4049C3E18FCDF44FD88BE795"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e313/derby_creek_alford_b_7713_sw_46th_court.jpg?as=1&w=425&rev=110d9aa8e74f451bbf8db3841899a228&hash=B8F194DD4049C3E18FCDF44FD88BE795",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e313/derby_creek_alford_b_7713_sw_46th_court.jpg?as=1&w=425&rev=110d9aa8e74f451bbf8db3841899a228&hash=B8F194DD4049C3E18FCDF44FD88BE795"
+          ]
         },
         {
           "slug": "e312",
@@ -408,7 +426,10 @@
           "sqft": "1,560",
           "story": "1",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/derby_creek_cameron_c_7701_sw_46th_court.jpg?as=1&w=425&rev=20cc69c0ae4d4684babd46896266a9f2&hash=706E684E00042A7F4FD9BD7C4CBE86BC"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/derby_creek_cameron_c_7701_sw_46th_court.jpg?as=1&w=425&rev=20cc69c0ae4d4684babd46896266a9f2&hash=706E684E00042A7F4FD9BD7C4CBE86BC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/derby_creek_cameron_c_7701_sw_46th_court.jpg?as=1&w=425&rev=20cc69c0ae4d4684babd46896266a9f2&hash=706E684E00042A7F4FD9BD7C4CBE86BC"
+          ]
         },
         {
           "slug": "e311",
@@ -420,7 +441,10 @@
           "sqft": "1,223",
           "story": "1",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/derby_creek_greenbriar_b_7689_sw_46th_court.jpg?as=1&w=425&rev=fa1a51946a5f4686a364efc69027789b&hash=2A2C93DDBA05D1E37E2AB8AE685C4AFC"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/derby_creek_greenbriar_b_7689_sw_46th_court.jpg?as=1&w=425&rev=fa1a51946a5f4686a364efc69027789b&hash=2A2C93DDBA05D1E37E2AB8AE685C4AFC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/derby_creek_greenbriar_b_7689_sw_46th_court.jpg?as=1&w=425&rev=fa1a51946a5f4686a364efc69027789b&hash=2A2C93DDBA05D1E37E2AB8AE685C4AFC"
+          ]
         }
       ]
     },
@@ -701,7 +725,10 @@
           "sqft": "1,504",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/allex_waterford.jpg?as=1&w=425&rev=67cddd09f8b54f8baf6cb06c6cc9b2d3&hash=3857CAC3EE971C05B2BFDC2FBAFACBC3"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/allex_waterford.jpg?as=1&w=425&rev=67cddd09f8b54f8baf6cb06c6cc9b2d3&hash=3857CAC3EE971C05B2BFDC2FBAFACBC3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/allex_waterford.jpg?as=1&w=425&rev=67cddd09f8b54f8baf6cb06c6cc9b2d3&hash=3857CAC3EE971C05B2BFDC2FBAFACBC3"
+          ]
         },
         {
           "slug": "e406",
@@ -713,7 +740,10 @@
           "sqft": "1,328",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e406/archer-a-8ft-siding-gen3-elev_ind_2.jpg?as=1&w=425&rev=ff707c3adb2540b59f0295209f751b4e&hash=58C9A234E370F5E8F86BDEDAA38C14CD"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e406/archer-a-8ft-siding-gen3-elev_ind_2.jpg?as=1&w=425&rev=ff707c3adb2540b59f0295209f751b4e&hash=58C9A234E370F5E8F86BDEDAA38C14CD",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e406/archer-a-8ft-siding-gen3-elev_ind_2.jpg?as=1&w=425&rev=ff707c3adb2540b59f0295209f751b4e&hash=58C9A234E370F5E8F86BDEDAA38C14CD"
+          ]
         },
         {
           "slug": "4eab",
@@ -725,7 +755,10 @@
           "sqft": "1,672",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/aria.png?as=1&w=425&rev=cde0289590474146a35338e0f7ac8ed6&hash=337BDD2B1966558A726B91A7FA7E6B12"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/aria.png?as=1&w=425&rev=cde0289590474146a35338e0f7ac8ed6&hash=337BDD2B1966558A726B91A7FA7E6B12",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/aria.png?as=1&w=425&rev=cde0289590474146a35338e0f7ac8ed6&hash=337BDD2B1966558A726B91A7FA7E6B12"
+          ]
         },
         {
           "slug": "4ebb",
@@ -737,7 +770,10 @@
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/cali_-_d.png?as=1&w=425&rev=f113f2b9d5f54b5584609b0cf422bdf0&hash=9988E152D79C5DE614B2C37A45862755"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/cali_-_d.png?as=1&w=425&rev=f113f2b9d5f54b5584609b0cf422bdf0&hash=9988E152D79C5DE614B2C37A45862755",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/cali_-_d.png?as=1&w=425&rev=f113f2b9d5f54b5584609b0cf422bdf0&hash=9988E152D79C5DE614B2C37A45862755"
+          ]
         },
         {
           "slug": "e306",
@@ -749,7 +785,10 @@
           "sqft": "1,302",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/e306/downing_ii-a-8ft-siding-gen3-elev_ind.jpg?as=1&w=425&rev=577f705778624c0eb2033868f71ee244&hash=03ED91475719F8909AF181213A5CCE66"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/e306/downing_ii-a-8ft-siding-gen3-elev_ind.jpg?as=1&w=425&rev=577f705778624c0eb2033868f71ee244&hash=03ED91475719F8909AF181213A5CCE66",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/e306/downing_ii-a-8ft-siding-gen3-elev_ind.jpg?as=1&w=425&rev=577f705778624c0eb2033868f71ee244&hash=03ED91475719F8909AF181213A5CCE66"
+          ]
         },
         {
           "slug": "3eeb",
@@ -761,13 +800,19 @@
           "sqft": "2,260",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/zfl_west-florida_drh-express_elston_h_no_coach_no_hinge.jpg?as=1&w=425&rev=3a95022e2bcb4eaa9f8dd243964760c4&hash=BF55655A2F7671C7F88BF37825ED4341"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/zfl_west-florida_drh-express_elston_h_no_coach_no_hinge.jpg?as=1&w=425&rev=3a95022e2bcb4eaa9f8dd243964760c4&hash=BF55655A2F7671C7F88BF37825ED4341",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/zfl_west-florida_drh-express_elston_h_no_coach_no_hinge.jpg?as=1&w=425&rev=3a95022e2bcb4eaa9f8dd243964760c4&hash=BF55655A2F7671C7F88BF37825ED4341"
+          ]
         },
         {
           "slug": "e303",
           "name": "Elston II",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/e303",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/e303/elston_ii-g-8ft-gen3-elev_ind__.jpg?as=1&w=425&rev=4b5286b97b3d44b8979ebe18034c8b78&hash=107D5624CDE7BFBDFB7CAD2A4C379106"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/e303/elston_ii-g-8ft-gen3-elev_ind__.jpg?as=1&w=425&rev=4b5286b97b3d44b8979ebe18034c8b78&hash=107D5624CDE7BFBDFB7CAD2A4C379106",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/e303/elston_ii-g-8ft-gen3-elev_ind__.jpg?as=1&w=425&rev=4b5286b97b3d44b8979ebe18034c8b78&hash=107D5624CDE7BFBDFB7CAD2A4C379106"
+          ]
         },
         {
           "slug": "e407",
@@ -779,7 +824,10 @@
           "sqft": "1,498",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e407/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=1d69d39f61bf40cba2593e5d4742e00f&hash=75DE107923108272EE6AB498DC28BD6F"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e407/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=1d69d39f61bf40cba2593e5d4742e00f&hash=75DE107923108272EE6AB498DC28BD6F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e407/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=1d69d39f61bf40cba2593e5d4742e00f&hash=75DE107923108272EE6AB498DC28BD6F"
+          ]
         },
         {
           "slug": "3emb",
@@ -791,7 +839,10 @@
           "sqft": "1,665",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/ep_harper_g_lot_40_2950_ne_21st_court_road.png?as=1&w=425&rev=6759437a0edb4aa084351095bd87160c&hash=5CBC064936E49F052F48CF537862AE41"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/ep_harper_g_lot_40_2950_ne_21st_court_road.png?as=1&w=425&rev=6759437a0edb4aa084351095bd87160c&hash=5CBC064936E49F052F48CF537862AE41",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/ep_harper_g_lot_40_2950_ne_21st_court_road.png?as=1&w=425&rev=6759437a0edb4aa084351095bd87160c&hash=5CBC064936E49F052F48CF537862AE41"
+          ]
         },
         {
           "slug": "4ehb",
@@ -803,7 +854,10 @@
           "sqft": "2,605",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=f15ac8b6bdf8403ba820cce197a78a88&hash=75312D9DDC4B348B1F254EA1D194D697"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=f15ac8b6bdf8403ba820cce197a78a88&hash=75312D9DDC4B348B1F254EA1D194D697",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=f15ac8b6bdf8403ba820cce197a78a88&hash=75312D9DDC4B348B1F254EA1D194D697"
+          ]
         },
         {
           "slug": "e402",
@@ -815,7 +869,10 @@
           "sqft": "2,077",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e402/lakeside-g-8ft-gen3-elev_ind.jpg?as=1&w=425&rev=b64a999949054187ae73c3e391e7f468&hash=3EA03AFB2143B85B18AEB4DD241285C5"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e402/lakeside-g-8ft-gen3-elev_ind.jpg?as=1&w=425&rev=b64a999949054187ae73c3e391e7f468&hash=3EA03AFB2143B85B18AEB4DD241285C5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e402/lakeside-g-8ft-gen3-elev_ind.jpg?as=1&w=425&rev=b64a999949054187ae73c3e391e7f468&hash=3EA03AFB2143B85B18AEB4DD241285C5"
+          ]
         },
         {
           "slug": "3efb",
@@ -827,7 +884,10 @@
           "sqft": "2,447",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=c9190f2d17a048d999d4272b726f9d36&hash=CE4B1E910050523D6745A162621B1B5A"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=c9190f2d17a048d999d4272b726f9d36&hash=CE4B1E910050523D6745A162621B1B5A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=c9190f2d17a048d999d4272b726f9d36&hash=CE4B1E910050523D6745A162621B1B5A"
+          ]
         }
       ]
     },
@@ -1036,7 +1096,10 @@
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/cali_c_-_ocs_4679_sw_85th_place.png?as=1&w=425&rev=b05f986ce64343889453e3c43dd55eb3&hash=F5B5C2E7C94E26ABB66F8B26C7183807"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/cali_c_-_ocs_4679_sw_85th_place.png?as=1&w=425&rev=b05f986ce64343889453e3c43dd55eb3&hash=F5B5C2E7C94E26ABB66F8B26C7183807",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/cali_c_-_ocs_4679_sw_85th_place.png?as=1&w=425&rev=b05f986ce64343889453e3c43dd55eb3&hash=F5B5C2E7C94E26ABB66F8B26C7183807"
+          ]
         },
         {
           "slug": "4evb",
@@ -1048,7 +1111,10 @@
           "sqft": "1,408",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4evb/dakota_hsl_no_address.png?as=1&w=425&rev=e4cc27c1058049cca0dbdc4fc717f8d5&hash=0DA976322FBD192D80DAAA69297705BB"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4evb/dakota_hsl_no_address.png?as=1&w=425&rev=e4cc27c1058049cca0dbdc4fc717f8d5&hash=0DA976322FBD192D80DAAA69297705BB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4evb/dakota_hsl_no_address.png?as=1&w=425&rev=e4cc27c1058049cca0dbdc4fc717f8d5&hash=0DA976322FBD192D80DAAA69297705BB"
+          ]
         },
         {
           "slug": "4ewb",
@@ -1060,7 +1126,10 @@
           "sqft": "1,498",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ewb/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=bd782679541e4b6a885a21423261f734&hash=E4FBC50A33BC15A7603EEF25E6CC7C47"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ewb/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=bd782679541e4b6a885a21423261f734&hash=E4FBC50A33BC15A7603EEF25E6CC7C47",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ewb/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=bd782679541e4b6a885a21423261f734&hash=E4FBC50A33BC15A7603EEF25E6CC7C47"
+          ]
         }
       ]
     },
@@ -1216,7 +1285,10 @@
           "sqft": "1,328",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/archer-a-8ft-siding-gen3-elev_ind_2.jpg?as=1&w=425&rev=8aa80022aefa4c438f492b3ddc7c4858&hash=28F290358BDB3D7BC4D51311A1FC5F87"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/archer-a-8ft-siding-gen3-elev_ind_2.jpg?as=1&w=425&rev=8aa80022aefa4c438f492b3ddc7c4858&hash=28F290358BDB3D7BC4D51311A1FC5F87",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/archer-a-8ft-siding-gen3-elev_ind_2.jpg?as=1&w=425&rev=8aa80022aefa4c438f492b3ddc7c4858&hash=28F290358BDB3D7BC4D51311A1FC5F87"
+          ]
         },
         {
           "slug": "e407",
@@ -1228,7 +1300,10 @@
           "sqft": "1,498",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=9d746a910db4417cb7dddc606bc27f65&hash=9F82EE915E7177F91837B2505CD24792"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=9d746a910db4417cb7dddc606bc27f65&hash=9F82EE915E7177F91837B2505CD24792",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=9d746a910db4417cb7dddc606bc27f65&hash=9F82EE915E7177F91837B2505CD24792"
+          ]
         },
         {
           "slug": "e402",
@@ -1240,7 +1315,10 @@
           "sqft": "2,077",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e402/lakeside-h-8ft-gen3-elev_ind.jpg?as=1&w=425&rev=8a09cb8ef30a45dcb43ac81fb8514917&hash=739AD4C12668C28AF70B0953729FFAA0"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e402/lakeside-h-8ft-gen3-elev_ind.jpg?as=1&w=425&rev=8a09cb8ef30a45dcb43ac81fb8514917&hash=739AD4C12668C28AF70B0953729FFAA0",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e402/lakeside-h-8ft-gen3-elev_ind.jpg?as=1&w=425&rev=8a09cb8ef30a45dcb43ac81fb8514917&hash=739AD4C12668C28AF70B0953729FFAA0"
+          ]
         }
       ]
     },
@@ -1414,7 +1492,10 @@
           "sqft": "1,504",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3ab/astor_a_ocp2_web.png?as=1&w=425&rev=bb4c4be7c80d4ccb826b538f062c9484&hash=958F4CA0890D40EFA3A2EF451B8CD5A9"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3ab/astor_a_ocp2_web.png?as=1&w=425&rev=bb4c4be7c80d4ccb826b538f062c9484&hash=958F4CA0890D40EFA3A2EF451B8CD5A9",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3ab/astor_a_ocp2_web.png?as=1&w=425&rev=bb4c4be7c80d4ccb826b538f062c9484&hash=958F4CA0890D40EFA3A2EF451B8CD5A9"
+          ]
         },
         {
           "slug": "a4ab",
@@ -1426,7 +1507,10 @@
           "sqft": "1,641",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4ab/mwdo_avon.jpg?as=1&w=425&rev=c12be0582faf49948b8f8d6567770306&hash=5337081FD3EC994331A591212C900A4A"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4ab/mwdo_avon.jpg?as=1&w=425&rev=c12be0582faf49948b8f8d6567770306&hash=5337081FD3EC994331A591212C900A4A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4ab/mwdo_avon.jpg?as=1&w=425&rev=c12be0582faf49948b8f8d6567770306&hash=5337081FD3EC994331A591212C900A4A"
+          ]
         },
         {
           "slug": "a3bb",
@@ -1438,7 +1522,10 @@
           "sqft": "1,402",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3bb/bowen_mockingbird.jpg?as=1&w=425&rev=4f88d21f51e7426eacb41b6343e1e809&hash=8867D08ADF81A85A8B96826BE737BA43"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3bb/bowen_mockingbird.jpg?as=1&w=425&rev=4f88d21f51e7426eacb41b6343e1e809&hash=8867D08ADF81A85A8B96826BE737BA43",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3bb/bowen_mockingbird.jpg?as=1&w=425&rev=4f88d21f51e7426eacb41b6343e1e809&hash=8867D08ADF81A85A8B96826BE737BA43"
+          ]
         },
         {
           "slug": "v30a",
@@ -1450,7 +1537,10 @@
           "sqft": "1,564",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/02_carrington_a_westport.jpg?as=1&w=425&rev=c7015b0b6ddc4d299451073edc9d7fe4&hash=48DEB7AD42E9E8654058E87D2FBEAD55"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/02_carrington_a_westport.jpg?as=1&w=425&rev=c7015b0b6ddc4d299451073edc9d7fe4&hash=48DEB7AD42E9E8654058E87D2FBEAD55",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/02_carrington_a_westport.jpg?as=1&w=425&rev=c7015b0b6ddc4d299451073edc9d7fe4&hash=48DEB7AD42E9E8654058E87D2FBEAD55"
+          ]
         },
         {
           "slug": "v30b",
@@ -1462,7 +1552,10 @@
           "sqft": "1,564",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30b/02_carrington_a_westport.jpg?as=1&w=425&rev=530def44588747fb862ce79233d3461f&hash=F1F454EEBC7788E818987C2A3BA4CAFC"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30b/02_carrington_a_westport.jpg?as=1&w=425&rev=530def44588747fb862ce79233d3461f&hash=F1F454EEBC7788E818987C2A3BA4CAFC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30b/02_carrington_a_westport.jpg?as=1&w=425&rev=530def44588747fb862ce79233d3461f&hash=F1F454EEBC7788E818987C2A3BA4CAFC"
+          ]
         },
         {
           "slug": "a4cb",
@@ -1474,7 +1567,10 @@
           "sqft": "1,816",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/clifton__twisted_oaks_web.png?as=1&w=425&rev=f0a79111f81e45c0a6f4d0fb0835a142&hash=6F6DB9CFD6122DB6E71F15BBB93EE098"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/clifton__twisted_oaks_web.png?as=1&w=425&rev=f0a79111f81e45c0a6f4d0fb0835a142&hash=6F6DB9CFD6122DB6E71F15BBB93EE098",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/clifton__twisted_oaks_web.png?as=1&w=425&rev=f0a79111f81e45c0a6f4d0fb0835a142&hash=6F6DB9CFD6122DB6E71F15BBB93EE098"
+          ]
         },
         {
           "slug": "a4db",
@@ -1486,7 +1582,10 @@
           "sqft": "2,034",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4db/fl_west-florida_freedom-homes_delray-b-sitecore-edited.jpg?as=1&w=425&rev=c3243b6d13704b1eb17d53af4bdea43a&hash=483D4185C278F22B910E55372CE14ED0"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4db/fl_west-florida_freedom-homes_delray-b-sitecore-edited.jpg?as=1&w=425&rev=c3243b6d13704b1eb17d53af4bdea43a&hash=483D4185C278F22B910E55372CE14ED0",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4db/fl_west-florida_freedom-homes_delray-b-sitecore-edited.jpg?as=1&w=425&rev=c3243b6d13704b1eb17d53af4bdea43a&hash=483D4185C278F22B910E55372CE14ED0"
+          ]
         },
         {
           "slug": "a3jb",
@@ -1498,7 +1597,10 @@
           "sqft": "1,614",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3jb/jenning_d_-_ocp.png?as=1&w=425&rev=4385a3d39a114b688496251bb144c9c8&hash=BD2E83856E72A7BC4AF0E23DD3B6B0F0"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3jb/jenning_d_-_ocp.png?as=1&w=425&rev=4385a3d39a114b688496251bb144c9c8&hash=BD2E83856E72A7BC4AF0E23DD3B6B0F0",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3jb/jenning_d_-_ocp.png?as=1&w=425&rev=4385a3d39a114b688496251bb144c9c8&hash=BD2E83856E72A7BC4AF0E23DD3B6B0F0"
+          ]
         }
       ]
     },
@@ -1779,7 +1881,10 @@
           "sqft": "1,504",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eab/allex_waterford.jpg?as=1&w=425&rev=f41c9a7d2d1a45259c729ee60fcb76cd&hash=C943E09DDCCF38885F982D3ACBC48C57"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eab/allex_waterford.jpg?as=1&w=425&rev=f41c9a7d2d1a45259c729ee60fcb76cd&hash=C943E09DDCCF38885F982D3ACBC48C57",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eab/allex_waterford.jpg?as=1&w=425&rev=f41c9a7d2d1a45259c729ee60fcb76cd&hash=C943E09DDCCF38885F982D3ACBC48C57"
+          ]
         },
         {
           "slug": "4eab",
@@ -1791,7 +1896,10 @@
           "sqft": "1,672",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4eab/aria.png?as=1&w=425&rev=85edffbb075046f2bf06b197e5a59d0d&hash=CD2AE0EC1DFDCB4BE52108CDFE3AD47A"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4eab/aria.png?as=1&w=425&rev=85edffbb075046f2bf06b197e5a59d0d&hash=CD2AE0EC1DFDCB4BE52108CDFE3AD47A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4eab/aria.png?as=1&w=425&rev=85edffbb075046f2bf06b197e5a59d0d&hash=CD2AE0EC1DFDCB4BE52108CDFE3AD47A"
+          ]
         },
         {
           "slug": "4ebb",
@@ -1803,7 +1911,10 @@
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4ebb/cali_-_d.png?as=1&w=425&rev=d59c6d3dd6564cebb3589d20c9966a81&hash=F35C5A607421473611529439DB0069B6"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4ebb/cali_-_d.png?as=1&w=425&rev=d59c6d3dd6564cebb3589d20c9966a81&hash=F35C5A607421473611529439DB0069B6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4ebb/cali_-_d.png?as=1&w=425&rev=d59c6d3dd6564cebb3589d20c9966a81&hash=F35C5A607421473611529439DB0069B6"
+          ]
         },
         {
           "slug": "3eeb",
@@ -1815,13 +1926,19 @@
           "sqft": "2,260",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eeb/elston_tos_this_one_web.png?as=1&w=425&rev=8b81ef00f17e486398bd2ae211ae1e93&hash=63ADD84C70C8E0DD57F175F9F4AC68A3"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eeb/elston_tos_this_one_web.png?as=1&w=425&rev=8b81ef00f17e486398bd2ae211ae1e93&hash=63ADD84C70C8E0DD57F175F9F4AC68A3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eeb/elston_tos_this_one_web.png?as=1&w=425&rev=8b81ef00f17e486398bd2ae211ae1e93&hash=63ADD84C70C8E0DD57F175F9F4AC68A3"
+          ]
         },
         {
           "slug": "e303",
           "name": "Elston II",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/floor-plans/e303",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/elston_ii-g-8ft-gen3-elev_ind__.jpg?as=1&w=425&rev=6df6d8644bf644e79ecd2265b6e77ea4&hash=444E40D392FD5B6A7C981E3AB8ABDCBF"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/elston_ii-g-8ft-gen3-elev_ind__.jpg?as=1&w=425&rev=6df6d8644bf644e79ecd2265b6e77ea4&hash=444E40D392FD5B6A7C981E3AB8ABDCBF",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/elston_ii-g-8ft-gen3-elev_ind__.jpg?as=1&w=425&rev=6df6d8644bf644e79ecd2265b6e77ea4&hash=444E40D392FD5B6A7C981E3AB8ABDCBF"
+          ]
         },
         {
           "slug": "4ehb",
@@ -1833,7 +1950,10 @@
           "sqft": "2,605",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/4ehb/hayden_k_ocs.png?as=1&w=425&rev=3b689254dca6402b808f370d42d9d08c&hash=3D874BC8BCB00E8087934E7CA47C98BA"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/4ehb/hayden_k_ocs.png?as=1&w=425&rev=3b689254dca6402b808f370d42d9d08c&hash=3D874BC8BCB00E8087934E7CA47C98BA",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/4ehb/hayden_k_ocs.png?as=1&w=425&rev=3b689254dca6402b808f370d42d9d08c&hash=3D874BC8BCB00E8087934E7CA47C98BA"
+          ]
         },
         {
           "slug": "3efb",
@@ -1845,7 +1965,10 @@
           "sqft": "2,447",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=d87465055aad43f79e6235c9fdcf6fe5&hash=D3FEA4E51FB3A8C06075D282A404ABAB"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=d87465055aad43f79e6235c9fdcf6fe5&hash=D3FEA4E51FB3A8C06075D282A404ABAB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=d87465055aad43f79e6235c9fdcf6fe5&hash=D3FEA4E51FB3A8C06075D282A404ABAB"
+          ]
         }
       ]
     },
@@ -2109,7 +2232,10 @@
           "sqft": "1,504",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3ab/astor_b_-_ocp_9094_nw_44th_circle.png?as=1&w=425&rev=783e7a7adfa24c84a90e48c943bd9785&hash=7778BCEEFE75C2ECCEC14798B5905176"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3ab/astor_b_-_ocp_9094_nw_44th_circle.png?as=1&w=425&rev=783e7a7adfa24c84a90e48c943bd9785&hash=7778BCEEFE75C2ECCEC14798B5905176",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3ab/astor_b_-_ocp_9094_nw_44th_circle.png?as=1&w=425&rev=783e7a7adfa24c84a90e48c943bd9785&hash=7778BCEEFE75C2ECCEC14798B5905176"
+          ]
         },
         {
           "slug": "v30a",
@@ -2121,7 +2247,10 @@
           "sqft": "1,564",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347940000-ocala-preserve-villas/v30a/carrington_ele_d_cs_6_without_coach_lights_1.jpg?as=1&w=425&rev=3de18fe80dc74cf2b87d1ba3c0e4a34c&hash=F195CBB1E77C636EB0821B128853CCC7"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347940000-ocala-preserve-villas/v30a/carrington_ele_d_cs_6_without_coach_lights_1.jpg?as=1&w=425&rev=3de18fe80dc74cf2b87d1ba3c0e4a34c&hash=F195CBB1E77C636EB0821B128853CCC7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347940000-ocala-preserve-villas/v30a/carrington_ele_d_cs_6_without_coach_lights_1.jpg?as=1&w=425&rev=3de18fe80dc74cf2b87d1ba3c0e4a34c&hash=F195CBB1E77C636EB0821B128853CCC7"
+          ]
         },
         {
           "slug": "1565",
@@ -2133,7 +2262,10 @@
           "sqft": "1,565",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/ocp_siesta_model_cropped.jpg?as=1&w=425&rev=928cf3feb3c945cb9c891ba314949d08&hash=C7901437E21664BB2FDEB7EB8F467943"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/ocp_siesta_model_cropped.jpg?as=1&w=425&rev=928cf3feb3c945cb9c891ba314949d08&hash=C7901437E21664BB2FDEB7EB8F467943",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/ocp_siesta_model_cropped.jpg?as=1&w=425&rev=928cf3feb3c945cb9c891ba314949d08&hash=C7901437E21664BB2FDEB7EB8F467943"
+          ]
         },
         {
           "slug": "a3jb",
@@ -2145,7 +2277,10 @@
           "sqft": "1,614",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3jb/jennings_c_ocp_web.png?as=1&w=425&rev=1ba8a32d8f4447f4a8d80fdbdee1a79a&hash=7054E60B7113403EF1D5313651ABA9EA"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3jb/jennings_c_ocp_web.png?as=1&w=425&rev=1ba8a32d8f4447f4a8d80fdbdee1a79a&hash=7054E60B7113403EF1D5313651ABA9EA",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3jb/jennings_c_ocp_web.png?as=1&w=425&rev=1ba8a32d8f4447f4a8d80fdbdee1a79a&hash=7054E60B7113403EF1D5313651ABA9EA"
+          ]
         },
         {
           "slug": "a4cb",
@@ -2157,7 +2292,10 @@
           "sqft": "1,816",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4cb/clifton_e_ocp_web.png?as=1&w=425&rev=d46ce178e3284fe9b2e060898c452327&hash=E80CAB3F12EB11290EF8C3549DF10884"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4cb/clifton_e_ocp_web.png?as=1&w=425&rev=d46ce178e3284fe9b2e060898c452327&hash=E80CAB3F12EB11290EF8C3549DF10884",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4cb/clifton_e_ocp_web.png?as=1&w=425&rev=d46ce178e3284fe9b2e060898c452327&hash=E80CAB3F12EB11290EF8C3549DF10884"
+          ]
         },
         {
           "slug": "1844",
@@ -2169,7 +2307,10 @@
           "sqft": "1,844",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/1844/tos_laurel.jpg?as=1&w=425&rev=82fbfe16501c431393056cdb5824d9d4&hash=B3FDE5BE3D27CCE0632D4020A39389B1"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/1844/tos_laurel.jpg?as=1&w=425&rev=82fbfe16501c431393056cdb5824d9d4&hash=B3FDE5BE3D27CCE0632D4020A39389B1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/1844/tos_laurel.jpg?as=1&w=425&rev=82fbfe16501c431393056cdb5824d9d4&hash=B3FDE5BE3D27CCE0632D4020A39389B1"
+          ]
         },
         {
           "slug": "a4db",
@@ -2181,7 +2322,10 @@
           "sqft": "2,034",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/delray_e_ocp_web.png?as=1&w=425&rev=4960a4007acb4d4ab2b3772c2ff311c6&hash=AF4DE5A35E8C6666E3113A4FB6B9CB06"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/delray_e_ocp_web.png?as=1&w=425&rev=4960a4007acb4d4ab2b3772c2ff311c6&hash=AF4DE5A35E8C6666E3113A4FB6B9CB06",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/delray_e_ocp_web.png?as=1&w=425&rev=4960a4007acb4d4ab2b3772c2ff311c6&hash=AF4DE5A35E8C6666E3113A4FB6B9CB06"
+          ]
         },
         {
           "slug": "2368",
@@ -2193,7 +2337,10 @@
           "sqft": "2,368",
           "story": "1",
           "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2368/destin_twisted_oaks_web.png?as=1&w=425&rev=eca503ebfa22461a8c0aedf3b3096e5b&hash=44295487E3A7A7EBD40876E3075E22D6"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2368/destin_twisted_oaks_web.png?as=1&w=425&rev=eca503ebfa22461a8c0aedf3b3096e5b&hash=44295487E3A7A7EBD40876E3075E22D6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2368/destin_twisted_oaks_web.png?as=1&w=425&rev=eca503ebfa22461a8c0aedf3b3096e5b&hash=44295487E3A7A7EBD40876E3075E22D6"
+          ]
         },
         {
           "slug": "2558",
@@ -2205,7 +2352,10 @@
           "sqft": "2,537",
           "story": "1",
           "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2558/twisted_oaks_hawthorne_web.png?as=1&w=425&rev=0f6eb08cdd6e4b3aab71dbcce918f828&hash=6E807F8D07F90DBBD32D4477392EC5EE"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2558/twisted_oaks_hawthorne_web.png?as=1&w=425&rev=0f6eb08cdd6e4b3aab71dbcce918f828&hash=6E807F8D07F90DBBD32D4477392EC5EE",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2558/twisted_oaks_hawthorne_web.png?as=1&w=425&rev=0f6eb08cdd6e4b3aab71dbcce918f828&hash=6E807F8D07F90DBBD32D4477392EC5EE"
+          ]
         },
         {
           "slug": "2795",
@@ -2217,7 +2367,10 @@
           "sqft": "2,836",
           "story": "1",
           "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2795/camden_d_ocp_web.png?as=1&w=425&rev=8387ac2f55d149cba4edb4549f676135&hash=EEB6C107DEBFD40C71F0E8C814B6C79E"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2795/camden_d_ocp_web.png?as=1&w=425&rev=8387ac2f55d149cba4edb4549f676135&hash=EEB6C107DEBFD40C71F0E8C814B6C79E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347070000-ocala-preserve-drh/2795/camden_d_ocp_web.png?as=1&w=425&rev=8387ac2f55d149cba4edb4549f676135&hash=EEB6C107DEBFD40C71F0E8C814B6C79E"
+          ]
         }
       ]
     },
@@ -2428,7 +2581,10 @@
           "sqft": "1,672",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4eab/aria.png?as=1&w=425&rev=3ede1936c2204d53a5153a7cf63dae8a&hash=C2529FB86E0E6241AC750DF6D282519F"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4eab/aria.png?as=1&w=425&rev=3ede1936c2204d53a5153a7cf63dae8a&hash=C2529FB86E0E6241AC750DF6D282519F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4eab/aria.png?as=1&w=425&rev=3ede1936c2204d53a5153a7cf63dae8a&hash=C2529FB86E0E6241AC750DF6D282519F"
+          ]
         },
         {
           "slug": "4ebb",
@@ -2440,7 +2596,10 @@
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ebb/cali_d_siding.png?as=1&w=425&rev=9480148fb3354d6b9ce20c19390ea3f8&hash=A4B913752B394E260B066509A3CB7BD4"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ebb/cali_d_siding.png?as=1&w=425&rev=9480148fb3354d6b9ce20c19390ea3f8&hash=A4B913752B394E260B066509A3CB7BD4",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ebb/cali_d_siding.png?as=1&w=425&rev=9480148fb3354d6b9ce20c19390ea3f8&hash=A4B913752B394E260B066509A3CB7BD4"
+          ]
         },
         {
           "slug": "2045",
@@ -2452,7 +2611,10 @@
           "sqft": "2,045",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/2045/lantana_elev_f_2045_sq_ft_waterset_web.jpg?as=1&w=425&rev=f0528ae114da449395ae99aef260c8fa&hash=8AF0C54696CF4CF14229DDE5DFA067F3"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/2045/lantana_elev_f_2045_sq_ft_waterset_web.jpg?as=1&w=425&rev=f0528ae114da449395ae99aef260c8fa&hash=8AF0C54696CF4CF14229DDE5DFA067F3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/2045/lantana_elev_f_2045_sq_ft_waterset_web.jpg?as=1&w=425&rev=f0528ae114da449395ae99aef260c8fa&hash=8AF0C54696CF4CF14229DDE5DFA067F3"
+          ]
         },
         {
           "slug": "4ehb",
@@ -2464,7 +2626,10 @@
           "sqft": "2,605",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=664352c63e2d4f689a97b0e303bcc70e&hash=83D00972BA3C92F9010D46DDAE95DB26"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=664352c63e2d4f689a97b0e303bcc70e&hash=83D00972BA3C92F9010D46DDAE95DB26",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=664352c63e2d4f689a97b0e303bcc70e&hash=83D00972BA3C92F9010D46DDAE95DB26"
+          ]
         },
         {
           "slug": "2767",
@@ -2476,7 +2641,10 @@
           "sqft": "2,756",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/2767/fl_west-florida_drhorton_coral-g_brooker_ridge.jpg?as=1&w=425&rev=9be7f317fbc5411abc0b4823d78ef5cd&hash=6645287148F4E1543F1841B6147B9E72"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/2767/fl_west-florida_drhorton_coral-g_brooker_ridge.jpg?as=1&w=425&rev=9be7f317fbc5411abc0b4823d78ef5cd&hash=6645287148F4E1543F1841B6147B9E72",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/2767/fl_west-florida_drhorton_coral-g_brooker_ridge.jpg?as=1&w=425&rev=9be7f317fbc5411abc0b4823d78ef5cd&hash=6645287148F4E1543F1841B6147B9E72"
+          ]
         },
         {
           "slug": "2924",
@@ -2488,7 +2656,10 @@
           "sqft": "2,934",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2924/rhb_lot_179_4285_sw_54th_street_road_hemingway_h.png?as=1&w=425&rev=46cafec1d4cc4695b88fae6c352d6cb8&hash=8D281BCFA37FD39E5DC29A986981EF21"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2924/rhb_lot_179_4285_sw_54th_street_road_hemingway_h.png?as=1&w=425&rev=46cafec1d4cc4695b88fae6c352d6cb8&hash=8D281BCFA37FD39E5DC29A986981EF21",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2924/rhb_lot_179_4285_sw_54th_street_road_hemingway_h.png?as=1&w=425&rev=46cafec1d4cc4695b88fae6c352d6cb8&hash=8D281BCFA37FD39E5DC29A986981EF21"
+          ]
         },
         {
           "slug": "3129",
@@ -2500,7 +2671,10 @@
           "sqft": "3,313",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/3129/fl-west-florida_drhorton_holden_h.jpg?as=1&w=425&rev=f8275fd12fa9452cb1f703b27dfc8c01&hash=D09A26780CCB442CED5477D66DAB0DF5"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/3129/fl-west-florida_drhorton_holden_h.jpg?as=1&w=425&rev=f8275fd12fa9452cb1f703b27dfc8c01&hash=D09A26780CCB442CED5477D66DAB0DF5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/3129/fl-west-florida_drhorton_holden_h.jpg?as=1&w=425&rev=f8275fd12fa9452cb1f703b27dfc8c01&hash=D09A26780CCB442CED5477D66DAB0DF5"
+          ]
         }
       ]
     },
@@ -2837,7 +3011,10 @@
           "sqft": "1,672",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4eab/aria.png?as=1&w=425&rev=6b63141b7fd34c8cabbe3bd3720f927d&hash=ADB96CABD4F5742C4CBEE9D81998C5BB"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4eab/aria.png?as=1&w=425&rev=6b63141b7fd34c8cabbe3bd3720f927d&hash=ADB96CABD4F5742C4CBEE9D81998C5BB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4eab/aria.png?as=1&w=425&rev=6b63141b7fd34c8cabbe3bd3720f927d&hash=ADB96CABD4F5742C4CBEE9D81998C5BB"
+          ]
         },
         {
           "slug": "4ebb",
@@ -2849,7 +3026,10 @@
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/cali_-_d_ocs_-_no_address.png?as=1&w=425&rev=de44af85b0ba4360b2c538ddf77b3f06&hash=AEF399567A3AB4C6F7935051677D212B"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/cali_-_d_ocs_-_no_address.png?as=1&w=425&rev=de44af85b0ba4360b2c538ddf77b3f06&hash=AEF399567A3AB4C6F7935051677D212B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/cali_-_d_ocs_-_no_address.png?as=1&w=425&rev=de44af85b0ba4360b2c538ddf77b3f06&hash=AEF399567A3AB4C6F7935051677D212B"
+          ]
         },
         {
           "slug": "2795",
@@ -2861,7 +3041,10 @@
           "sqft": "2,836",
           "story": "1",
           "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2795/camden_twisted_oaks_web.png?as=1&w=425&rev=8669d2da155640f7a4c9b5dc44f1dd64&hash=D4A876C187A0A73BFAE685DF5B482945"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2795/camden_twisted_oaks_web.png?as=1&w=425&rev=8669d2da155640f7a4c9b5dc44f1dd64&hash=D4A876C187A0A73BFAE685DF5B482945",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2795/camden_twisted_oaks_web.png?as=1&w=425&rev=8669d2da155640f7a4c9b5dc44f1dd64&hash=D4A876C187A0A73BFAE685DF5B482945"
+          ]
         },
         {
           "slug": "2767",
@@ -2873,7 +3056,10 @@
           "sqft": "2,756",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/2767/fl_west-florida_drhorton_coral-g_brooker_ridge.jpg?as=1&w=425&rev=d2dcd886265a49e4bbbd97856037488c&hash=10346A7566C8D3F887BF5354713617C7"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/2767/fl_west-florida_drhorton_coral-g_brooker_ridge.jpg?as=1&w=425&rev=d2dcd886265a49e4bbbd97856037488c&hash=10346A7566C8D3F887BF5354713617C7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/2767/fl_west-florida_drhorton_coral-g_brooker_ridge.jpg?as=1&w=425&rev=d2dcd886265a49e4bbbd97856037488c&hash=10346A7566C8D3F887BF5354713617C7"
+          ]
         },
         {
           "slug": "2368",
@@ -2885,7 +3071,10 @@
           "sqft": "2,372",
           "story": "1",
           "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2368/fl_west-florida_dr-horton_destin_d-floorplan_web-.png?as=1&w=425&rev=2e65c7d4409342e6ba51848a0da58a2c&hash=5C7F659741ED580408A5864CB5D3D2F3"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2368/fl_west-florida_dr-horton_destin_d-floorplan_web-.png?as=1&w=425&rev=2e65c7d4409342e6ba51848a0da58a2c&hash=5C7F659741ED580408A5864CB5D3D2F3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2368/fl_west-florida_dr-horton_destin_d-floorplan_web-.png?as=1&w=425&rev=2e65c7d4409342e6ba51848a0da58a2c&hash=5C7F659741ED580408A5864CB5D3D2F3"
+          ]
         },
         {
           "slug": "3eeb",
@@ -2897,13 +3086,19 @@
           "sqft": "2,260",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3eeb/elston_tos_this_one_web.png?as=1&w=425&rev=1b833a550b6d456189b514b5fb73f136&hash=0AD51232AA38F3B614C5CBC50C019639"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3eeb/elston_tos_this_one_web.png?as=1&w=425&rev=1b833a550b6d456189b514b5fb73f136&hash=0AD51232AA38F3B614C5CBC50C019639",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3eeb/elston_tos_this_one_web.png?as=1&w=425&rev=1b833a550b6d456189b514b5fb73f136&hash=0AD51232AA38F3B614C5CBC50C019639"
+          ]
         },
         {
           "slug": "e303",
           "name": "Elston II",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/floor-plans/e303",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/e303/elston_ii-g-8ft-stone-gen3-elev_ind_wdo__.jpg?as=1&w=425&rev=33bb66db3ebc4f219830895b84efbab9&hash=AB360F859D19534A7FA33F3F70B21D07"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/e303/elston_ii-g-8ft-stone-gen3-elev_ind_wdo__.jpg?as=1&w=425&rev=33bb66db3ebc4f219830895b84efbab9&hash=AB360F859D19534A7FA33F3F70B21D07",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/e303/elston_ii-g-8ft-stone-gen3-elev_ind_wdo__.jpg?as=1&w=425&rev=33bb66db3ebc4f219830895b84efbab9&hash=AB360F859D19534A7FA33F3F70B21D07"
+          ]
         },
         {
           "slug": "3emb",
@@ -2915,7 +3110,10 @@
           "sqft": "1,665",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3emb/ep_harper_g_lot_40_2950_ne_21st_court_road.png?as=1&w=425&rev=e73f20866f5e4acf9239de1cf6b8e371&hash=7B30F9D53D45083DBB92BABC486B79F5"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3emb/ep_harper_g_lot_40_2950_ne_21st_court_road.png?as=1&w=425&rev=e73f20866f5e4acf9239de1cf6b8e371&hash=7B30F9D53D45083DBB92BABC486B79F5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3emb/ep_harper_g_lot_40_2950_ne_21st_court_road.png?as=1&w=425&rev=e73f20866f5e4acf9239de1cf6b8e371&hash=7B30F9D53D45083DBB92BABC486B79F5"
+          ]
         },
         {
           "slug": "2558",
@@ -2927,7 +3125,10 @@
           "sqft": "2,537",
           "story": "1",
           "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2558/twisted_oaks_hawthorne_web.png?as=1&w=425&rev=cdc2eb4ae4cb4811b53beb62da7837ee&hash=D0EE7B3D1836FEED09E79832323DC7E0"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2558/twisted_oaks_hawthorne_web.png?as=1&w=425&rev=cdc2eb4ae4cb4811b53beb62da7837ee&hash=D0EE7B3D1836FEED09E79832323DC7E0",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2558/twisted_oaks_hawthorne_web.png?as=1&w=425&rev=cdc2eb4ae4cb4811b53beb62da7837ee&hash=D0EE7B3D1836FEED09E79832323DC7E0"
+          ]
         },
         {
           "slug": "4ehb",
@@ -2939,7 +3140,10 @@
           "sqft": "2,605",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/sunset_hills_lot_64_15808_se_101st_circle.png?as=1&w=425&rev=cb836be1a760479ea57715abfd57267d&hash=3E69A48C41A06C86D246C745859967B8"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/sunset_hills_lot_64_15808_se_101st_circle.png?as=1&w=425&rev=cb836be1a760479ea57715abfd57267d&hash=3E69A48C41A06C86D246C745859967B8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/sunset_hills_lot_64_15808_se_101st_circle.png?as=1&w=425&rev=cb836be1a760479ea57715abfd57267d&hash=3E69A48C41A06C86D246C745859967B8"
+          ]
         },
         {
           "slug": "3129",
@@ -2951,7 +3155,10 @@
           "sqft": "3,313",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/3129/fl-west-florida_drhorton_holden_h.jpg?as=1&w=425&rev=a606a14c1a8c47acb971fc4e5b2017ff&hash=256E85141C66E30255A6F1929EC97E2F"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/3129/fl-west-florida_drhorton_holden_h.jpg?as=1&w=425&rev=a606a14c1a8c47acb971fc4e5b2017ff&hash=256E85141C66E30255A6F1929EC97E2F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/3129/fl-west-florida_drhorton_holden_h.jpg?as=1&w=425&rev=a606a14c1a8c47acb971fc4e5b2017ff&hash=256E85141C66E30255A6F1929EC97E2F"
+          ]
         },
         {
           "slug": "2045",
@@ -2963,7 +3170,10 @@
           "sqft": "2,045",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/2045/lantana_elev_f_2045_sq_ft_waterset_web.jpg?as=1&w=425&rev=5ebc4ee85bba4b0190f085eebf4a55c9&hash=8389A9BAF8973C1D6938782641B49984"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/2045/lantana_elev_f_2045_sq_ft_waterset_web.jpg?as=1&w=425&rev=5ebc4ee85bba4b0190f085eebf4a55c9&hash=8389A9BAF8973C1D6938782641B49984",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975060000-winding-oaks-50s-drh/2045/lantana_elev_f_2045_sq_ft_waterset_web.jpg?as=1&w=425&rev=5ebc4ee85bba4b0190f085eebf4a55c9&hash=8389A9BAF8973C1D6938782641B49984"
+          ]
         },
         {
           "slug": "3efb",
@@ -2975,7 +3185,10 @@
           "sqft": "2,447",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=21253a56414e4964a5db17e077b85fea&hash=3116B8EA7529F46C381EF672E334397C"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=21253a56414e4964a5db17e077b85fea&hash=3116B8EA7529F46C381EF672E334397C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3efb/ep_robie_g_lot_38_2922_ne_21st_court_road.png?as=1&w=425&rev=21253a56414e4964a5db17e077b85fea&hash=3116B8EA7529F46C381EF672E334397C"
+          ]
         }
       ]
     },
@@ -3112,7 +3325,10 @@
           "sqft": "1,458",
           "story": "2",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/pearson_frame_interior_unit2.jpg?as=1&w=425&rev=bfc13b081f83424a98662f29047642e8&hash=16B7B645C129793CA673EF6989BDB6F6"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/pearson_frame_interior_unit2.jpg?as=1&w=425&rev=bfc13b081f83424a98662f29047642e8&hash=16B7B645C129793CA673EF6989BDB6F6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/pearson_frame_interior_unit2.jpg?as=1&w=425&rev=bfc13b081f83424a98662f29047642e8&hash=16B7B645C129793CA673EF6989BDB6F6"
+          ]
         },
         {
           "slug": "t20a",
@@ -3124,7 +3340,10 @@
           "sqft": "1,458",
           "story": "2",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/pearson_end_unit_2.png?as=1&w=425&rev=811a590cebdc43a889981dff84a5418c&hash=611D3D4786024CFBF55C3D61E1DD46FF"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/pearson_end_unit_2.png?as=1&w=425&rev=811a590cebdc43a889981dff84a5418c&hash=611D3D4786024CFBF55C3D61E1DD46FF",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/pearson_end_unit_2.png?as=1&w=425&rev=811a590cebdc43a889981dff84a5418c&hash=611D3D4786024CFBF55C3D61E1DD46FF"
+          ]
         }
       ]
     }
