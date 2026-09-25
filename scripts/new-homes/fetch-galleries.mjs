@@ -35,7 +35,7 @@ function galleryFrom(html) {
     } catch {
       continue;
     }
-    if (!/\/productcatalog\//i.test(path)) continue;
+    if (!/\/(?:product|creative)catalog\//i.test(path)) continue;
     const prev = best.get(path);
     if (!prev) {
       order.push(path);
