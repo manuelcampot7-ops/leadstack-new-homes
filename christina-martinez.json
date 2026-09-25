@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-24T18:03:24.470Z",
+  "updatedAt": "2026-09-25T16:47:42.617Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-24T18:03:24.470Z",
-  "photoCount": 115,
+  "publicUpdatedAt": "2026-09-25T16:47:42.617Z",
+  "photoCount": 114,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -321,8 +321,8 @@
       "slug": "derby-creek",
       "name": "Derby Creek",
       "address": "7665 SW 46th Court, Ocala, FL 34474",
-      "availableCount": 4,
-      "lowestPrice": 259990,
+      "availableCount": 3,
+      "lowestPrice": 262990,
       "highestPrice": 265990,
       "beds": [
         4
@@ -347,24 +347,6 @@
           ],
           "incentive": 7975,
           "incentiveLabel": "(7,975)"
-        },
-        {
-          "lot": "17",
-          "address": "7821 SW 46th Court",
-          "plan": "Cameron",
-          "price": 259990,
-          "priceLabel": "$259,990",
-          "beds": 4,
-          "homeSlug": "7821-sw-46th-court",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7821-sw-46th-court",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0017-7821-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=9556c3ce4473428db329211683c1ab0a&hash=21CBFF3D37E2A8DA73F3994D23D0DB05",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0017-7821-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=9556c3ce4473428db329211683c1ab0a&hash=21CBFF3D37E2A8DA73F3994D23D0DB05"
-          ]
         },
         {
           "lot": "58",
@@ -2459,6 +2441,18 @@
           "story": "1",
           "garage": "2",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ebb/cali_d_siding.png?as=1&w=425&rev=9480148fb3354d6b9ce20c19390ea3f8&hash=A4B913752B394E260B066509A3CB7BD4"
+        },
+        {
+          "slug": "2045",
+          "name": "Lantana",
+          "startingLabel": "Starting in the $347s",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/floor-plans/2045",
+          "beds": 4,
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/2045/lantana_elev_f_2045_sq_ft_waterset_web.jpg?as=1&w=425&rev=f0528ae114da449395ae99aef260c8fa&hash=8AF0C54696CF4CF14229DDE5DFA067F3"
         },
         {
           "slug": "4ehb",

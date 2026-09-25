@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-24T18:12:18.376Z",
+  "updatedAt": "2026-09-25T16:55:26.163Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-24T18:12:18.376Z",
-  "photoCount": 174,
+  "publicUpdatedAt": "2026-09-25T16:55:26.163Z",
+  "photoCount": 172,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -1295,9 +1295,9 @@
           "sqft": "1,739",
           "story": "1",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0008-12075-isle-royale-drive/alford_ele_a1.jpg?iar=1&sc=1&thn=1&w=425&rev=1a16712becea4c4a9d676c69c23044d2&hash=CF46E966EDA02544F1CD391E641FB4D2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0008-12075-isle-royale-drive/alford_ele_a1.jpg?iar=1&sc=1&thn=1&w=425&rev=b81992a0db20441b9c6fba001c5f64cf&hash=082D06F795E306F5DB89448418B36FED",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0008-12075-isle-royale-drive/alford_ele_a1.jpg?iar=1&sc=1&thn=1&w=425&rev=1a16712becea4c4a9d676c69c23044d2&hash=CF46E966EDA02544F1CD391E641FB4D2"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0008-12075-isle-royale-drive/alford_ele_a1.jpg?iar=1&sc=1&thn=1&w=425&rev=b81992a0db20441b9c6fba001c5f64cf&hash=082D06F795E306F5DB89448418B36FED"
           ],
           "incentive": 990,
           "incentiveLabel": "(990)"
@@ -1359,12 +1359,6 @@
       ],
       "models": [
         {
-          "slug": "e302",
-          "name": "Allex II",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/floor-plans/e302",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e302/fl_tampanorth_drhorton_allexii_c_nocl.jpg?as=1&w=425&rev=1938c342d62644b2985df34403d116ea&hash=693941AFAD1EA01F371A4345F9EDFAC2"
-        },
-        {
           "slug": "e311",
           "name": "Greenbriar",
           "startingLabel": "Starting in the $278s",
@@ -1399,6 +1393,18 @@
           "story": "1",
           "garage": "1",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39378-brighton-park/393780000-brighton-park/e313/alford_ele_b.jpg?as=1&w=425&rev=f7eb2ba250d04bbd85e5afa5d6efc21f&hash=79F92998819069423CB7346588B41B71"
+        },
+        {
+          "slug": "e302",
+          "name": "Allex II",
+          "startingLabel": "Starting in the $306s",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/floor-plans/e302",
+          "beds": 3,
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e302/fl_tampanorth_drhorton_allexii_c_nocl.jpg?as=1&w=425&rev=1938c342d62644b2985df34403d116ea&hash=693941AFAD1EA01F371A4345F9EDFAC2"
         }
       ]
     },
@@ -1650,24 +1656,24 @@
       ],
       "lots": [
         {
-          "lot": "42",
-          "address": "6645 Flint Creek Dr",
+          "lot": "18",
+          "address": "7018 Flint Creek Dr",
           "plan": "",
-          "price": 500000,
-          "priceLabel": "$500,000",
-          "beds": 4,
-          "homeSlug": "6645-flint-creek-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/6645-flint-creek-drive",
-          "baths": "3",
-          "sqft": "3,313",
-          "story": "2",
+          "price": 320000,
+          "priceLabel": "$320,000",
+          "beds": 3,
+          "homeSlug": "7018-flint-creek-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/7018-flint-creek-drive",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/3129/0181-6645-flint-creek-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f615e15863c84684884ee8137319564f&hash=36825EB325D342D944BFA3DE626602BB",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0072-7018-flint-creek-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2334abc9834d13996770ca69d4640b&hash=6F3AB5F61BD344EBB03F779E638F24EC",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/3129/0181-6645-flint-creek-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f615e15863c84684884ee8137319564f&hash=36825EB325D342D944BFA3DE626602BB"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0072-7018-flint-creek-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2334abc9834d13996770ca69d4640b&hash=6F3AB5F61BD344EBB03F779E638F24EC"
           ],
-          "incentive": 38740,
-          "incentiveLabel": "(38,740)"
+          "incentive": 22340,
+          "incentiveLabel": "(22,340)"
         },
         {
           "lot": "39",
@@ -1685,24 +1691,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0126-6960-flint-creek-drive/allex_ii_c_angeline_siding_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=f5062eade4db4f22902423cc3b4b14d5&hash=633B925D0A1DC25566421F62821E9F67",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0126-6960-flint-creek-drive/allex_ii_c_angeline_siding_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=f5062eade4db4f22902423cc3b4b14d5&hash=633B925D0A1DC25566421F62821E9F67"
-          ]
-        },
-        {
-          "lot": "18",
-          "address": "7018 Flint Creek Dr",
-          "plan": "",
-          "price": 320000,
-          "priceLabel": "$320,000",
-          "beds": 3,
-          "homeSlug": "7018-flint-creek-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/7018-flint-creek-drive",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0072-7018-flint-creek-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2334abc9834d13996770ca69d4640b&hash=6F3AB5F61BD344EBB03F779E638F24EC",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0072-7018-flint-creek-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2334abc9834d13996770ca69d4640b&hash=6F3AB5F61BD344EBB03F779E638F24EC"
           ]
         },
         {
@@ -1847,6 +1835,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/394000000-deerbrook-60s-drh/2795/0001-7540-broad-river-avenue/camden_f_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=5637488943be4b8884fa41dc1c7889a7&hash=565B7FC10D677B8F94A058BB048ACFE3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/394000000-deerbrook-60s-drh/2795/0001-7540-broad-river-avenue/camden_f_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=5637488943be4b8884fa41dc1c7889a7&hash=565B7FC10D677B8F94A058BB048ACFE3"
+          ]
+        },
+        {
+          "lot": "42",
+          "address": "6645 Flint Creek Dr",
+          "plan": "",
+          "price": 500000,
+          "priceLabel": "$500,000",
+          "beds": 4,
+          "homeSlug": "6645-flint-creek-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/6645-flint-creek-drive",
+          "baths": "3",
+          "sqft": "3,313",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/3129/0181-6645-flint-creek-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f615e15863c84684884ee8137319564f&hash=36825EB325D342D944BFA3DE626602BB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/3129/0181-6645-flint-creek-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f615e15863c84684884ee8137319564f&hash=36825EB325D342D944BFA3DE626602BB"
           ]
         }
       ],
@@ -2614,7 +2620,7 @@
       "slug": "hammock-at-two-rivers",
       "name": "Hammock at Two Rivers",
       "address": "1383 Chasehill Lane, Zephyrhills, FL 33541",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 436000,
       "highestPrice": 560000,
       "beds": [
@@ -2623,24 +2629,24 @@
       ],
       "lots": [
         {
-          "lot": "3",
-          "address": "1059 Chasehill Lane",
+          "lot": "17",
+          "address": "1142 Chasehill Lane",
           "plan": "",
-          "price": 550000,
-          "priceLabel": "$550,000",
+          "price": 560000,
+          "priceLabel": "$560,000",
           "beds": 4,
-          "homeSlug": "1059-chasehill-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/1059-chasehill-lane",
+          "homeSlug": "1142-chasehill-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/1142-chasehill-lane",
           "baths": "3.5",
           "sqft": "2,836",
           "story": "1",
           "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2795/0116-1059-chasehill-lane/camden_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=07f74e40f204407fa12d42a5090bafd6&hash=D35F68083BBDB2BB867DCC88D8047798",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2795/0112-1142-chasehill-lane/camden_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=e5ab8e34a32c4a1db47bba931c433d6c&hash=7DF23375F02FF0D9BCDD444525AF8BE6",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2795/0116-1059-chasehill-lane/camden_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=07f74e40f204407fa12d42a5090bafd6&hash=D35F68083BBDB2BB867DCC88D8047798"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2795/0112-1142-chasehill-lane/camden_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=e5ab8e34a32c4a1db47bba931c433d6c&hash=7DF23375F02FF0D9BCDD444525AF8BE6"
           ],
-          "incentive": 51050,
-          "incentiveLabel": "(51,050)"
+          "incentive": 35050,
+          "incentiveLabel": "(35,050)"
         },
         {
           "lot": "2",
@@ -2658,24 +2664,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2558/0115-1073-chasehill-lane/hawthorne_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=feea604a4db0430b93f3a7c92235f41d&hash=23A537181E36C0D4EDA482B09905D8FF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2558/0115-1073-chasehill-lane/hawthorne_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=feea604a4db0430b93f3a7c92235f41d&hash=23A537181E36C0D4EDA482B09905D8FF"
-          ]
-        },
-        {
-          "lot": "17",
-          "address": "1142 Chasehill Lane",
-          "plan": "",
-          "price": 560000,
-          "priceLabel": "$560,000",
-          "beds": 4,
-          "homeSlug": "1142-chasehill-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/1142-chasehill-lane",
-          "baths": "3.5",
-          "sqft": "2,836",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2795/0112-1142-chasehill-lane/camden_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=e5ab8e34a32c4a1db47bba931c433d6c&hash=7DF23375F02FF0D9BCDD444525AF8BE6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2795/0112-1142-chasehill-lane/camden_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=e5ab8e34a32c4a1db47bba931c433d6c&hash=7DF23375F02FF0D9BCDD444525AF8BE6"
           ]
         },
         {
@@ -3508,7 +3496,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0041-446-whistling-duck-pl/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=089bbf75af2a42809679f38720ed4779&hash=E0F94B364E0CD9C68C08F431C41CF665",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0041-446-whistling-duck-pl/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=089bbf75af2a42809679f38720ed4779&hash=E0F94B364E0CD9C68C08F431C41CF665"
-          ]
+          ],
+          "incentive": 7990,
+          "incentiveLabel": "(7,990)"
         },
         {
           "lot": "86",
@@ -4985,8 +4975,8 @@
       "slug": "westwood",
       "name": "Westwood",
       "address": "Westwood",
-      "availableCount": 10,
-      "lowestPrice": 310000,
+      "availableCount": 9,
+      "lowestPrice": 315000,
       "highestPrice": 391000,
       "beds": [
         3
@@ -5011,24 +5001,6 @@
           ],
           "incentive": 42990,
           "incentiveLabel": "(42,990)"
-        },
-        {
-          "lot": "168",
-          "address": "17245 English Chestnut Way",
-          "plan": "",
-          "price": 310000,
-          "priceLabel": "$310,000",
-          "beds": 3,
-          "homeSlug": "17245-english-chestnut-way",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/17245-english-chestnut-way",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0168-17245-english-chestnut-way/pearson_ele_d_ext_2_and_int_1_car_wide__driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=0876e827505149b0bd50f8f8b83cf608&hash=E6564D40A0ED09EA62B9C73140D787FE",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0168-17245-english-chestnut-way/pearson_ele_d_ext_2_and_int_1_car_wide__driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=0876e827505149b0bd50f8f8b83cf608&hash=E6564D40A0ED09EA62B9C73140D787FE"
-          ]
         },
         {
           "lot": "164",

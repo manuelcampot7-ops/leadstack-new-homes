@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-24T18:09:54.556Z",
+  "updatedAt": "2026-09-25T16:53:14.084Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-24T18:09:54.556Z",
-  "photoCount": 455,
+  "publicUpdatedAt": "2026-09-25T16:53:14.084Z",
+  "photoCount": 475,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -1609,9 +1609,9 @@
       "slug": "buchanan-trails",
       "name": "Buchanan Trails",
       "address": "1889 NW 136th Blvd, Newberry, FL 32669",
-      "availableCount": 3,
+      "availableCount": 4,
       "lowestPrice": 450990,
-      "highestPrice": 463990,
+      "highestPrice": 489000,
       "beds": [
         4
       ],
@@ -1668,6 +1668,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34702-buchanan-trails/347020000-buchanan-trails-50s-drh/2767/0209-1626-nw-127th-drive/coral-ks-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=4f85c9afe96644de8b1347d65725dc31&hash=E532E5F0A356999CEA33FE1EDE8CF4AA",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34702-buchanan-trails/347020000-buchanan-trails-50s-drh/2767/0209-1626-nw-127th-drive/coral-ks-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=4f85c9afe96644de8b1347d65725dc31&hash=E532E5F0A356999CEA33FE1EDE8CF4AA"
+          ]
+        },
+        {
+          "lot": "63",
+          "address": "1627 NW 128th Terrace",
+          "plan": "",
+          "price": 489000,
+          "priceLabel": "$489,000",
+          "beds": 4,
+          "homeSlug": "1627-nw-128th-terrace",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/buchanan-trails/qmis/1627-nw-128th-terrace",
+          "baths": "3",
+          "sqft": "3,209",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34702-buchanan-trails/347020000-buchanan-trails-50s-drh/3129/0206-1627-nw-128th-terrace/holden-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5fb97257e1084745a35e730d4fbe6a32&hash=1A75DE9DFB65F86923BBB25B455CE0E4",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34702-buchanan-trails/347020000-buchanan-trails-50s-drh/3129/0206-1627-nw-128th-terrace/holden-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5fb97257e1084745a35e730d4fbe6a32&hash=1A75DE9DFB65F86923BBB25B455CE0E4"
           ]
         }
       ],
@@ -1762,7 +1780,7 @@
       "slug": "buena-lago",
       "name": "Buena Lago",
       "address": "3928 Magenta Place, Saint Cloud, FL 34772",
-      "availableCount": 12,
+      "availableCount": 20,
       "lowestPrice": 380000,
       "highestPrice": 738646,
       "beds": [
@@ -1791,6 +1809,24 @@
           "incentiveLabel": "(74,189)"
         },
         {
+          "lot": "286",
+          "address": "3476 Malawi Trail",
+          "plan": "",
+          "price": 440000,
+          "priceLabel": "$440,000",
+          "beds": 5,
+          "homeSlug": "3476-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3476-malawi-trail",
+          "baths": "3",
+          "sqft": "2,601",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0422-3476-malawi-trail/1_1_haydenexterior_h2.jpg?iar=1&sc=1&thn=1&w=425&rev=2aefaa17e0cb47abbc5dae6251c96824&hash=1E6EE6EC6F8457164783A1B3C7765B80",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0422-3476-malawi-trail/1_1_haydenexterior_h2.jpg?iar=1&sc=1&thn=1&w=425&rev=2aefaa17e0cb47abbc5dae6251c96824&hash=1E6EE6EC6F8457164783A1B3C7765B80"
+          ]
+        },
+        {
           "lot": "278",
           "address": "3479 Malawi Trail",
           "plan": "",
@@ -1809,6 +1845,42 @@
           ]
         },
         {
+          "lot": "287",
+          "address": "3480 Malawi Trail",
+          "plan": "",
+          "price": 434990,
+          "priceLabel": "$434,990",
+          "beds": 5,
+          "homeSlug": "3480-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3480-malawi-trail",
+          "baths": "3",
+          "sqft": "2,601",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0423-3480-malawi-trail/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=0826b6d36f9245d98c0d7df8afa9fd5a&hash=2D29C0C10E23942936595DE64E5813D8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0423-3480-malawi-trail/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=0826b6d36f9245d98c0d7df8afa9fd5a&hash=2D29C0C10E23942936595DE64E5813D8"
+          ]
+        },
+        {
+          "lot": "277",
+          "address": "3483 Malawi Trail",
+          "plan": "",
+          "price": 445000,
+          "priceLabel": "$445,000",
+          "beds": 5,
+          "homeSlug": "3483-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3483-malawi-trail",
+          "baths": "3",
+          "sqft": "2,601",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0413-3483-malawi-trail/1_1_haydenexterior_h2.jpg?iar=1&sc=1&thn=1&w=425&rev=200dcccfb56640b8bf134edf3056728e&hash=6D16607B6880FC787C22EF522A92AC8E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0413-3483-malawi-trail/1_1_haydenexterior_h2.jpg?iar=1&sc=1&thn=1&w=425&rev=200dcccfb56640b8bf134edf3056728e&hash=6D16607B6880FC787C22EF522A92AC8E"
+          ]
+        },
+        {
           "lot": "288",
           "address": "3484 Malawi Trail",
           "plan": "",
@@ -1824,6 +1896,42 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0424-3484-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=9dcfe8ad623349c7a9b2238e8c7e16f0&hash=0433AC301F94D7142D42072706B67B1D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0424-3484-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=9dcfe8ad623349c7a9b2238e8c7e16f0&hash=0433AC301F94D7142D42072706B67B1D"
+          ]
+        },
+        {
+          "lot": "276",
+          "address": "3487 Malawi Trail",
+          "plan": "",
+          "price": 440000,
+          "priceLabel": "$440,000",
+          "beds": 5,
+          "homeSlug": "3487-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3487-malawi-trail",
+          "baths": "3",
+          "sqft": "2,601",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0412-3487-malawi-trail/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=7920c319001e4711a36c73b045f7b728&hash=64C5C7ECB88D6F41EEAAF843630CA8B8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0412-3487-malawi-trail/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=7920c319001e4711a36c73b045f7b728&hash=64C5C7ECB88D6F41EEAAF843630CA8B8"
+          ]
+        },
+        {
+          "lot": "275",
+          "address": "3491 Malawi Trail",
+          "plan": "",
+          "price": 384994,
+          "priceLabel": "$384,994",
+          "beds": 4,
+          "homeSlug": "3491-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3491-malawi-trail",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0411-3491-malawi-trail/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=f01408c64d684663990b3b422735fb99&hash=A86DD4147A1678029A4203F1E167D13E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0411-3491-malawi-trail/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=f01408c64d684663990b3b422735fb99&hash=A86DD4147A1678029A4203F1E167D13E"
           ]
         },
         {
@@ -1860,6 +1968,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4egb/0409-3499-malawi-trail/agalen_h_wyndham_preserve.jpg?iar=1&sc=1&thn=1&w=425&rev=7161677afce142df8d1b9b29a43eda6c&hash=C75D616447B625F08693B1715246DAF0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4egb/0409-3499-malawi-trail/agalen_h_wyndham_preserve.jpg?iar=1&sc=1&thn=1&w=425&rev=7161677afce142df8d1b9b29a43eda6c&hash=C75D616447B625F08693B1715246DAF0"
+          ]
+        },
+        {
+          "lot": "293",
+          "address": "3516 Malawi Trail",
+          "plan": "",
+          "price": 400000,
+          "priceLabel": "$400,000",
+          "beds": 4,
+          "homeSlug": "3516-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3516-malawi-trail",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0429-3516-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=af2f46ed752f4d8bb5bae8e181fbb078&hash=86192FEC3AD712F29F43B65F80B211A7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0429-3516-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=af2f46ed752f4d8bb5bae8e181fbb078&hash=86192FEC3AD712F29F43B65F80B211A7"
           ]
         },
         {
@@ -1953,6 +2079,24 @@
           ]
         },
         {
+          "lot": "212",
+          "address": "3793 Malawi Trail",
+          "plan": "",
+          "price": 392990,
+          "priceLabel": "$392,990",
+          "beds": 4,
+          "homeSlug": "3793-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3793-malawi-trail",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0361-3793-malawi-trail/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=ee179b64a6d4401a96406626802be036&hash=732F491B2FFB60A594BFD7D1C0839771",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0361-3793-malawi-trail/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=ee179b64a6d4401a96406626802be036&hash=732F491B2FFB60A594BFD7D1C0839771"
+          ]
+        },
+        {
           "lot": "211",
           "address": "3797 Malawi Trail",
           "plan": "",
@@ -1968,6 +2112,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0360-3797-malawi-trail/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=11a343d25e8f49829b8af7fafe606292&hash=CFF6DB42AE2A7A11FEA6451F2A34DD21",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0360-3797-malawi-trail/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=11a343d25e8f49829b8af7fafe606292&hash=CFF6DB42AE2A7A11FEA6451F2A34DD21"
+          ]
+        },
+        {
+          "lot": "209",
+          "address": "3805 Malawi Trail",
+          "plan": "",
+          "price": 400000,
+          "priceLabel": "$400,000",
+          "beds": 4,
+          "homeSlug": "3805-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3805-malawi-trail",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0358-3805-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=41d3c960b13d4c5b9efa1f4d8006131e&hash=697E5E41D134FCE07D49EA0AFE196C3A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0358-3805-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=41d3c960b13d4c5b9efa1f4d8006131e&hash=697E5E41D134FCE07D49EA0AFE196C3A"
           ]
         },
         {
@@ -5674,9 +5836,9 @@
       "slug": "fox-branch",
       "name": "Fox Branch",
       "address": "8522 Cape Fox Cove, Lakeland, FL 33810",
-      "availableCount": 10,
+      "availableCount": 11,
       "lowestPrice": 303900,
-      "highestPrice": 356490,
+      "highestPrice": 400990,
       "beds": [
         3,
         4,
@@ -5789,6 +5951,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/e402/0044-7851-forrest-fox-way/lakeside_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f6058a9b02474524ad5e49b7ca6d0bf4&hash=7264F307368CCE562F862BF3B0976692",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/e402/0044-7851-forrest-fox-way/lakeside_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f6058a9b02474524ad5e49b7ca6d0bf4&hash=7264F307368CCE562F862BF3B0976692"
+          ]
+        },
+        {
+          "lot": "48",
+          "address": "7858 Forrest Fox Way",
+          "plan": "",
+          "price": 400990,
+          "priceLabel": "$400,990",
+          "beds": 5,
+          "homeSlug": "7858-forrest-fox-way",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7858-forrest-fox-way",
+          "baths": "3",
+          "sqft": "2,605",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4ehb/0021-7858-forrest-fox-way/cropped_0006_hayden_exterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=cc63aba9a3cc4a7eb8dc62937078a119&hash=A236742B634B63F75467D5D1419424D1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4ehb/0021-7858-forrest-fox-way/cropped_0006_hayden_exterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=cc63aba9a3cc4a7eb8dc62937078a119&hash=A236742B634B63F75467D5D1419424D1"
           ]
         },
         {
@@ -6680,7 +6860,7 @@
       "slug": "harmony-at-lake-eloise",
       "name": "Harmony at Lake Eloise",
       "address": "1651 Hummingbird Road, Winter Haven, FL 33884",
-      "availableCount": 6,
+      "availableCount": 9,
       "lowestPrice": 263990,
       "highestPrice": 423900,
       "beds": [
@@ -6781,6 +6961,42 @@
           ]
         },
         {
+          "lot": "55",
+          "address": "2753 Gladiola Road",
+          "plan": "",
+          "price": 263990,
+          "priceLabel": "$263,990",
+          "beds": 3,
+          "homeSlug": "2753-gladiola-road",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/2753-gladiola-road",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362190000-harmony-on-lake-eloise-ph4-ths/1673/0009-2753-gladiola-road/exterior_1.jpg?iar=1&sc=1&thn=1&w=425&rev=834c480eac4c4aca9cff6f84523315bf&hash=724D8EFB14A4A778CCCB74110AAC3A42",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362190000-harmony-on-lake-eloise-ph4-ths/1673/0009-2753-gladiola-road/exterior_1.jpg?iar=1&sc=1&thn=1&w=425&rev=834c480eac4c4aca9cff6f84523315bf&hash=724D8EFB14A4A778CCCB74110AAC3A42"
+          ]
+        },
+        {
+          "lot": "56",
+          "address": "2759 Gladiola Road",
+          "plan": "",
+          "price": 263990,
+          "priceLabel": "$263,990",
+          "beds": 3,
+          "homeSlug": "2759-gladiola-road",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/2759-gladiola-road",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362190000-harmony-on-lake-eloise-ph4-ths/1673/0010-2759-gladiola-road/exterior_3.jpg?iar=1&sc=1&thn=1&w=425&rev=1bba45171d07458e9c7ce4856af5ba71&hash=0E12CD0174C03BDB7ED7AC73F74DD6A8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362190000-harmony-on-lake-eloise-ph4-ths/1673/0010-2759-gladiola-road/exterior_3.jpg?iar=1&sc=1&thn=1&w=425&rev=1bba45171d07458e9c7ce4856af5ba71&hash=0E12CD0174C03BDB7ED7AC73F74DD6A8"
+          ]
+        },
+        {
           "lot": "272",
           "address": "3316 White Indigo Road",
           "plan": "",
@@ -6796,6 +7012,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362150000-harmony-on-lake-eloise-ph4-40s/3eab/0023-3316-white-indigo-road/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=7686af2234de4c109da6499dae4d005d&hash=D333885815BCCE5597FAEC1E6ABFD5F7",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362150000-harmony-on-lake-eloise-ph4-40s/3eab/0023-3316-white-indigo-road/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=7686af2234de4c109da6499dae4d005d&hash=D333885815BCCE5597FAEC1E6ABFD5F7"
+          ]
+        },
+        {
+          "lot": "274",
+          "address": "3328 White Indigo Road",
+          "plan": "",
+          "price": 276900,
+          "priceLabel": "$276,900",
+          "beds": 3,
+          "homeSlug": "3328-white-indigo-road",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/3328-white-indigo-road",
+          "baths": "2",
+          "sqft": "1,302",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362150000-harmony-on-lake-eloise-ph4-40s/e306/0025-3328-white-indigo-road/downing_ii_a_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=82ca7c45d97347f3af6a609f0960dc2d&hash=1EDF20C0E7DE906BA9C7451EC05B192C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362150000-harmony-on-lake-eloise-ph4-40s/e306/0025-3328-white-indigo-road/downing_ii_a_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=82ca7c45d97347f3af6a609f0960dc2d&hash=1EDF20C0E7DE906BA9C7451EC05B192C"
           ]
         }
       ],
@@ -6921,6 +7155,18 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/e501/_0000_denham_ele_l_cs_8.jpg?as=1&w=425&rev=8d7a7e28d70f4bc085376456d7433f78&hash=B3ECC26A108E3FCB117AD001D5DC63CB"
         },
         {
+          "slug": "e306",
+          "name": "Downing II",
+          "startingLabel": "Starting in the $273s",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/e306",
+          "beds": 3,
+          "baths": "2",
+          "sqft": "1,302",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362150000-harmony-on-lake-eloise-ph4-40s/e306/downing_b_cropped.jpg?as=1&w=425&rev=71923a63806240fa96ee12f0a1d839b7&hash=3913CEF3372DD9CDE2DF4E71DB2FEF3E"
+        },
+        {
           "slug": "e303",
           "name": "Elston II",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/e303",
@@ -7010,7 +7256,7 @@
       "slug": "harmony-west",
       "name": "Harmony West",
       "address": "6748 Alder Road, Saint Cloud, FL 34773",
-      "availableCount": 10,
+      "availableCount": 15,
       "lowestPrice": 330156,
       "highestPrice": 445000,
       "beds": [
@@ -7130,6 +7376,60 @@
           ]
         },
         {
+          "lot": "241",
+          "address": "3133 House Finch Road",
+          "plan": "",
+          "price": 395000,
+          "priceLabel": "$395,000",
+          "beds": 4,
+          "homeSlug": "3133-house-finch-road",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3133-house-finch-road",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0907-3133-house-finch-road/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=6e67523b4684466ea6b2ae646be413e8&hash=557DD39A19A6B3DF61BBA5AAF8FF8172",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0907-3133-house-finch-road/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=6e67523b4684466ea6b2ae646be413e8&hash=557DD39A19A6B3DF61BBA5AAF8FF8172"
+          ]
+        },
+        {
+          "lot": "240",
+          "address": "3139 House Finch Road",
+          "plan": "",
+          "price": 405000,
+          "priceLabel": "$405,000",
+          "beds": 4,
+          "homeSlug": "3139-house-finch-road",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3139-house-finch-road",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0906-3139-house-finch-road/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=bd2bbf372efd4470a30812d2d1bd5e13&hash=2EB21C14578C1BD36A0A7C3A166C48B5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0906-3139-house-finch-road/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=bd2bbf372efd4470a30812d2d1bd5e13&hash=2EB21C14578C1BD36A0A7C3A166C48B5"
+          ]
+        },
+        {
+          "lot": "238",
+          "address": "3151 House Finch Road",
+          "plan": "",
+          "price": 400000,
+          "priceLabel": "$400,000",
+          "beds": 4,
+          "homeSlug": "3151-house-finch-road",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3151-house-finch-road",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0904-3151-house-finch-road/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=745971f84a9c4e19899b58ac178aa51a&hash=FC02C4CECA9C6DB169AC117FBE41AD44",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0904-3151-house-finch-road/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=745971f84a9c4e19899b58ac178aa51a&hash=FC02C4CECA9C6DB169AC117FBE41AD44"
+          ]
+        },
+        {
           "lot": "222",
           "address": "3155 Grey Moss Drive",
           "plan": "",
@@ -7148,6 +7448,24 @@
           ]
         },
         {
+          "lot": "237",
+          "address": "3157 House Finch Road",
+          "plan": "",
+          "price": 405000,
+          "priceLabel": "$405,000",
+          "beds": 4,
+          "homeSlug": "3157-house-finch-road",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3157-house-finch-road",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0903-3157-house-finch-road/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=be51502e1c3e4f8fa9ffbba439572b98&hash=A5CDF3E9BCECBF54999392634D648A08",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0903-3157-house-finch-road/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=be51502e1c3e4f8fa9ffbba439572b98&hash=A5CDF3E9BCECBF54999392634D648A08"
+          ]
+        },
+        {
           "lot": "207",
           "address": "3162 Grey Moss Drive",
           "plan": "",
@@ -7163,6 +7481,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0875-3162-grey-moss-drive/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3c6002cbbdbb411fa952738dcdf9a821&hash=B9F6E3AC48424905A2046AE2B554C57A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0875-3162-grey-moss-drive/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3c6002cbbdbb411fa952738dcdf9a821&hash=B9F6E3AC48424905A2046AE2B554C57A"
+          ]
+        },
+        {
+          "lot": "236",
+          "address": "3163 House Finch Road",
+          "plan": "",
+          "price": 424990,
+          "priceLabel": "$424,990",
+          "beds": 5,
+          "homeSlug": "3163-house-finch-road",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3163-house-finch-road",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0902-3163-house-finch-road/1_1_lakeside_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ea02f20915ac4fa4ae4905d197156d8b&hash=3B481179AADBECD1C8E6EF1DE3A530BE",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0902-3163-house-finch-road/1_1_lakeside_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ea02f20915ac4fa4ae4905d197156d8b&hash=3B481179AADBECD1C8E6EF1DE3A530BE"
           ]
         },
         {
@@ -8493,7 +8829,7 @@
       "slug": "kindred",
       "name": "Kindred",
       "address": "1848 Southbury Drive, Kissimmee, FL 34744",
-      "availableCount": 13,
+      "availableCount": 14,
       "lowestPrice": 345990,
       "highestPrice": 481790,
       "beds": [
@@ -8536,6 +8872,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0176-1472-bitteroot-street/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=22139cbb67a542e5b2bd64abbd342a8d&hash=2C053E4882A097E1BD25B799198A40E8",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0176-1472-bitteroot-street/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=22139cbb67a542e5b2bd64abbd342a8d&hash=2C053E4882A097E1BD25B799198A40E8"
+          ]
+        },
+        {
+          "lot": "654",
+          "address": "1512 Park Side Ave",
+          "plan": "",
+          "price": 408997,
+          "priceLabel": "$408,997",
+          "beds": 3,
+          "homeSlug": "1512-park-side-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1512-park-side-ave",
+          "baths": "2",
+          "sqft": "1,504",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0584-1512-park-side-ave/1508-park-side-avenue--kissimmee--fl-34744-allex---01.jpg?iar=1&sc=1&thn=1&w=425&rev=00b968511d914fe089954a57c4af7024&hash=DD798E33A251357874D48C7580EDCD97",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0584-1512-park-side-ave/1508-park-side-avenue--kissimmee--fl-34744-allex---01.jpg?iar=1&sc=1&thn=1&w=425&rev=00b968511d914fe089954a57c4af7024&hash=DD798E33A251357874D48C7580EDCD97"
           ]
         },
         {
@@ -9434,7 +9788,7 @@
       "name": "Magnolia Pointe",
       "address": "1372 Bear Hammock Drive, Umatilla, FL 32784",
       "availableCount": 4,
-      "lowestPrice": 345990,
+      "lowestPrice": 326990,
       "highestPrice": 354990,
       "beds": [
         3,
@@ -9445,8 +9799,8 @@
           "lot": "164",
           "address": "144 Flag Lilly Lane",
           "plan": "",
-          "price": 345990,
-          "priceLabel": "$345,990",
+          "price": 326990,
+          "priceLabel": "$326,990",
           "beds": 3,
           "homeSlug": "144-flag-lilly-lane",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/144-flag-lilly-lane",
@@ -9458,15 +9812,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/4eab/0090-144-flag-lilly-lane/aria_m.jpg?iar=1&sc=1&thn=1&w=425&rev=06bf9951467041528412453b8ab0f9fc&hash=A36F766B5F4B000112A8959C6AC197D9"
           ],
-          "incentive": 1000,
-          "incentiveLabel": "(1,000)"
+          "incentive": 20000,
+          "incentiveLabel": "(20,000)"
         },
         {
           "lot": "220",
           "address": "1336 Bear Hammock Drive",
           "plan": "",
-          "price": 347990,
-          "priceLabel": "$347,990",
+          "price": 328990,
+          "priceLabel": "$328,990",
           "beds": 3,
           "homeSlug": "1336-bear-hammock-drive",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/1336-bear-hammock-drive",
@@ -9501,8 +9855,8 @@
           "lot": "163",
           "address": "148 Flag Lilly Lane",
           "plan": "",
-          "price": 351990,
-          "priceLabel": "$351,990",
+          "price": 332990,
+          "priceLabel": "$332,990",
           "beds": 4,
           "homeSlug": "148-flag-lilly-lane",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/148-flag-lilly-lane",
@@ -14045,7 +14399,11 @@
           "baths": "3",
           "sqft": "2,336",
           "story": "1",
-          "garage": "3"
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/e501/0079-2515-dorset-court/1_1_denham_withstoneexterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=3b3182cc297749c9adfa1f4551fb5aea&hash=E6A6B5BCBAC45C574FE749C86D1752E9",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/e501/0079-2515-dorset-court/1_1_denham_withstoneexterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=3b3182cc297749c9adfa1f4551fb5aea&hash=E6A6B5BCBAC45C574FE749C86D1752E9"
+          ]
         },
         {
           "lot": "49",
