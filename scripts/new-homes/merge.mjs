@@ -26,12 +26,33 @@ function stripSprGeo(lot) {
   return next;
 }
 
+function photoList(row) {
+  const list = Array.isArray(row?.photos) ? row.photos.filter(Boolean) : [];
+  if (list.length) return list;
+  return row?.photo ? [row.photo] : [];
+}
+
 function keepMedia(hortonLot, prevLot) {
   const next = stripSprGeo(hortonLot);
-  if (!next.photo && prevLot?.photo) next.photo = prevLot.photo;
-  if ((!next.photos || next.photos.length === 0) && prevLot?.photos?.length) next.photos = prevLot.photos;
+  const fresh = photoList(next);
+  const prev = photoList(prevLot);
+  const photos = fresh.length >= prev.length ? fresh : prev;
+  if (photos.length) {
+    next.photos = photos;
+    next.photo = photos[0];
+  }
   if ((!next.plan || next.plan === "Not provided") && prevLot?.plan) next.plan = prevLot.plan;
   return next;
+}
+
+function mergeModels(fresh, prev) {
+  if (!fresh?.length) return prev || [];
+  const prevBy = new Map();
+  for (const model of prev || []) {
+    const key = model.sourceUrl || model.slug || model.name;
+    if (key) prevBy.set(key, model);
+  }
+  return fresh.map((model) => keepMedia(model, prevBy.get(model.sourceUrl || model.slug || model.name)));
 }
 
 function summarize(lots) {
@@ -63,7 +84,7 @@ export function mergeSnapshots(_spr, pub, previous) {
       address: community.address || "",
       ...stats,
       lots,
-      models: community.models?.length ? community.models : prevCommunity?.models || [],
+      models: mergeModels(community.models, prevCommunity?.models),
     };
   });
 
