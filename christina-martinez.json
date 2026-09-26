@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-25T18:08:57.597Z",
+  "updatedAt": "2026-09-26T17:28:46.721Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-25T18:08:57.597Z",
-  "photoCount": 114,
+  "publicUpdatedAt": "2026-09-26T17:28:46.721Z",
+  "photoCount": 113,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -2378,7 +2378,7 @@
       "slug": "ridge-at-heat-brook",
       "name": "Ridge at Heath Brook",
       "address": "5405 SW 44th Court Rd, Ocala, FL 34474",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 289990,
       "highestPrice": 420990,
       "beds": [
@@ -2477,24 +2477,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2045/0086-4241-sw-52nd-lane-rd/fl_west-florida_drhorton_lantana_b-newcolors.jpg?iar=1&sc=1&thn=1&w=425&rev=76aa35555b5d43c5a0c1c8edb370ebed&hash=178B4B8ED1D18A6D3461E9386DF4A9B8",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2045/0086-4241-sw-52nd-lane-rd/fl_west-florida_drhorton_lantana_b-newcolors.jpg?iar=1&sc=1&thn=1&w=425&rev=76aa35555b5d43c5a0c1c8edb370ebed&hash=178B4B8ED1D18A6D3461E9386DF4A9B8"
-          ]
-        },
-        {
-          "lot": "390",
-          "address": "5205 SW 40th Circle",
-          "plan": "Hayden",
-          "price": 339990,
-          "priceLabel": "$339,990",
-          "beds": 5,
-          "homeSlug": "5205-sw-40th-circle",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5205-sw-40th-circle",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0159-5205-sw-40th-circle/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=6e3bcaede7b741c18e60bac457cf3890&hash=7843C62CF116230685D9055B1A074D86",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ehb/0159-5205-sw-40th-circle/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=6e3bcaede7b741c18e60bac457cf3890&hash=7843C62CF116230685D9055B1A074D86"
           ]
         },
         {

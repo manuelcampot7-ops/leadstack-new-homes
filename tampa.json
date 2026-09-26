@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-25T18:17:04.882Z",
+  "updatedAt": "2026-09-26T17:36:41.823Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-25T18:17:04.882Z",
-  "photoCount": 172,
+  "publicUpdatedAt": "2026-09-26T17:36:41.823Z",
+  "photoCount": 179,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -476,9 +476,9 @@
       "slug": "angeline-townhomes",
       "name": "Angeline Townhomes",
       "address": "10998 Crescent Deer Dr, Land O Lakes, FL 34638",
-      "availableCount": 1,
+      "availableCount": 4,
       "lowestPrice": 260000,
-      "highestPrice": 260000,
+      "highestPrice": 305000,
       "beds": [
         3
       ],
@@ -502,6 +502,60 @@
           ],
           "incentive": 26990,
           "incentiveLabel": "(26,990)"
+        },
+        {
+          "lot": "312",
+          "address": "11157 Treasure Swale Way",
+          "plan": "",
+          "price": 305000,
+          "priceLabel": "$305,000",
+          "beds": 3,
+          "homeSlug": "11157-treasure-swale-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11157-treasure-swale-way",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0040-11157-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3957b53beed54b4992bb51ef20362faf&hash=78CE611823A281D4B51495160607D583",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0040-11157-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3957b53beed54b4992bb51ef20362faf&hash=78CE611823A281D4B51495160607D583"
+          ]
+        },
+        {
+          "lot": "313",
+          "address": "11165 Treasure Swale Way",
+          "plan": "",
+          "price": 305000,
+          "priceLabel": "$305,000",
+          "beds": 3,
+          "homeSlug": "11165-treasure-swale-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11165-treasure-swale-way",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0041-11165-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3b7ea72f2a364225bf4459dd75c2b268&hash=F9AD109DADF771B22C9F7D70006DCF3F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0041-11165-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3b7ea72f2a364225bf4459dd75c2b268&hash=F9AD109DADF771B22C9F7D70006DCF3F"
+          ]
+        },
+        {
+          "lot": "314",
+          "address": "11169 Treasure Swale Way",
+          "plan": "",
+          "price": 302000,
+          "priceLabel": "$302,000",
+          "beds": 3,
+          "homeSlug": "11169-treasure-swale-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11169-treasure-swale-way",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0042-11169-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=81cf6d6a3e6d4a28ac486ab9abdd248c&hash=277011E5B5ACD7A124B07D382AD6C152",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0042-11169-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=81cf6d6a3e6d4a28ac486ab9abdd248c&hash=277011E5B5ACD7A124B07D382AD6C152"
+          ]
         }
       ],
       "models": [
@@ -571,7 +625,7 @@
       "slug": "two-rivers---archer",
       "name": "Archer at Two Rivers",
       "address": "2274 Stratten Dr, Zephyrhills, FL 33541",
-      "availableCount": 10,
+      "availableCount": 11,
       "lowestPrice": 365000,
       "highestPrice": 582000,
       "beds": [
@@ -633,6 +687,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/elston_ii_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=3dd1be6d32614ae5b5b1e3ba7297a664&hash=5A3802AFAB95BF27B7EA6D9D57C92A71",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/elston_ii_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=3dd1be6d32614ae5b5b1e3ba7297a664&hash=5A3802AFAB95BF27B7EA6D9D57C92A71"
+          ]
+        },
+        {
+          "lot": "22",
+          "address": "2383 Hayrick Pass",
+          "plan": "",
+          "price": 511990,
+          "priceLabel": "$511,990",
+          "beds": 5,
+          "homeSlug": "2383-hayrick-pass",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/qmis/2383-hayrick-pass",
+          "baths": "3",
+          "sqft": "2,490",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/e502/0073-2383-hayrick-pass/covington_ele_n.jpg?iar=1&sc=1&thn=1&w=425&rev=421dd0d16a4142459191cc598fc907ba&hash=04EAFD255F06BB18AAFDCE40CBBD8157",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/e502/0073-2383-hayrick-pass/covington_ele_n.jpg?iar=1&sc=1&thn=1&w=425&rev=421dd0d16a4142459191cc598fc907ba&hash=04EAFD255F06BB18AAFDCE40CBBD8157"
           ]
         },
         {
@@ -915,9 +987,9 @@
       "slug": "balm-grove",
       "name": "Balm Grove",
       "address": "13610 Fenwick Stream Dr, Wimauma, FL 33598",
-      "availableCount": 10,
+      "availableCount": 11,
       "lowestPrice": 285000,
-      "highestPrice": 398990,
+      "highestPrice": 415000,
       "beds": [
         3,
         4,
@@ -960,6 +1032,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394730000-balm-grove-60s-exp/5emb/0006-13615-new-jade-ave/fl_tampannorth_drhorton_madisong.jpg?iar=1&sc=1&thn=1&w=425&rev=42ae553c60f04b7092d6c856a0f0f1c8&hash=6A9B953C39E02889829B27556E98854F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394730000-balm-grove-60s-exp/5emb/0006-13615-new-jade-ave/fl_tampannorth_drhorton_madisong.jpg?iar=1&sc=1&thn=1&w=425&rev=42ae553c60f04b7092d6c856a0f0f1c8&hash=6A9B953C39E02889829B27556E98854F"
+          ]
+        },
+        {
+          "lot": "32",
+          "address": "13617 New Jade Ave",
+          "plan": "",
+          "price": 415000,
+          "priceLabel": "$415,000",
+          "beds": 4,
+          "homeSlug": "13617-new-jade-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/13617-new-jade-ave",
+          "baths": "3",
+          "sqft": "2,336",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394730000-balm-grove-60s-exp/e501/0007-13617-new-jade-ave/390_tpa_n_denham_elevation_l.jpg?iar=1&sc=1&thn=1&w=425&rev=1bbe859bd2af4f49a3e361059d48802e&hash=7F9D65E7A2C1A1E7A198F14F2153FFCE",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394730000-balm-grove-60s-exp/e501/0007-13617-new-jade-ave/390_tpa_n_denham_elevation_l.jpg?iar=1&sc=1&thn=1&w=425&rev=1bbe859bd2af4f49a3e361059d48802e&hash=7F9D65E7A2C1A1E7A198F14F2153FFCE"
           ]
         },
         {
@@ -3214,11 +3304,12 @@
       "slug": "holloway-landing",
       "name": "Holloway Landing",
       "address": "1151 Wild Clover Way, Plant City, FL 33566",
-      "availableCount": 2,
+      "availableCount": 3,
       "lowestPrice": 295000,
-      "highestPrice": 333000,
+      "highestPrice": 353000,
       "beds": [
-        3
+        3,
+        4
       ],
       "lots": [
         {
@@ -3257,6 +3348,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e406/0046-1140-wild-clover-way/archer_ele_b_with_stone_8-8.jpg?iar=1&sc=1&thn=1&w=425&rev=1a72017c8a7f4650ac8e1c0f57254cf5&hash=C5E7C26402861E6DE56965554E66A5C5",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e406/0046-1140-wild-clover-way/archer_ele_b_with_stone_8-8.jpg?iar=1&sc=1&thn=1&w=425&rev=1a72017c8a7f4650ac8e1c0f57254cf5&hash=C5E7C26402861E6DE56965554E66A5C5"
+          ]
+        },
+        {
+          "lot": "45",
+          "address": "1142 Wild Clover Way",
+          "plan": "",
+          "price": 353000,
+          "priceLabel": "$353,000",
+          "beds": 4,
+          "homeSlug": "1142-wild-clover-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1142-wild-clover-way",
+          "baths": "2",
+          "sqft": "1,665",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/3emb/0045-1142-wild-clover-way/north-harper-g-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4a8ee9cdb3804fc6bf4a919d6fa0e3f7&hash=167968A677DB1B3AF895AD3B8672521B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/3emb/0045-1142-wild-clover-way/north-harper-g-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4a8ee9cdb3804fc6bf4a919d6fa0e3f7&hash=167968A677DB1B3AF895AD3B8672521B"
           ]
         }
       ],
@@ -5158,7 +5267,7 @@
       "slug": "towns-at-woodsdale",
       "name": "Towns at Woodsdale",
       "address": "31302 Ancient Sage Road, Wesley Chapel, FL 33545",
-      "availableCount": 3,
+      "availableCount": 4,
       "lowestPrice": 270000,
       "highestPrice": 311990,
       "beds": [
@@ -5199,6 +5308,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0154-31185-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=f66b3951f75943049b98a73b5f4ed8b0&hash=C2273464B15217D315F15337D0E924BE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0154-31185-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=f66b3951f75943049b98a73b5f4ed8b0&hash=C2273464B15217D315F15337D0E924BE"
+          ]
+        },
+        {
+          "lot": "86",
+          "address": "31213 Paper Birch St",
+          "plan": "",
+          "price": 305000,
+          "priceLabel": "$305,000",
+          "beds": 3,
+          "homeSlug": "31213-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31213-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0032-31213-paper-birch-street/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=603db7276dcc4c08ba7e6da538aa2424&hash=8A589956118F7B3B625B305066C9991C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0032-31213-paper-birch-street/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=603db7276dcc4c08ba7e6da538aa2424&hash=8A589956118F7B3B625B305066C9991C"
           ]
         },
         {
